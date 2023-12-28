@@ -14,7 +14,7 @@ Este proyecto de ETL extrae información desde archivos CSV, ejecuta con Docker-
 El esquema general del modo en que se relacionan las partes del sistema es el siguiente:
 <br/><br/>
 
-![etl_airflow_docker](https://github.com/Cris-Neumann/Codigo_abierto/assets/99703152/b3704d19-69b4-4fa5-9b36-19aefb65691c)
+![etl_airflow_docker](https://github.com/Cris-Neumann/ETL-with-Airflow-and-Docker/assets/99703152/328c1609-6d52-4550-9ff0-75b5ce4c9858)
 
 ## Conexión desde PostgreSQL a Power BI
 Para la conexión desde PostgreSQL a Power BI se utiliza una conexión ODBC, utilizando el string conector a Power BI vía ANSIx64: Driver={PostgreSQL ANSI(x64)};Server=SERVIDOR_SELECCIONADO;Port=PUERTO_SELECCIONADO;Database=BASE_DE_DATOS_SELECCIONADA
@@ -23,4 +23,4 @@ Para la conexión desde PostgreSQL a Power BI se utiliza una conexión ODBC, uti
 A continuación una vista diseñada en Power BI, alojada en directorio 'views', con los ingresos, gastos y ahorro de clientes.
 <br/><br/>
 
-![dashboard](https://github.com/Cris-Neumann/Codigo_abierto/assets/99703152/c7fc134b-a430-437d-854a-6350267c4245)
+![dashboard](https://github.com/Cris-Neumann/ETL-with-Airflow-and-Docker/assets/99703152/ec4680ba-ab6b-43d6-9ee0-32433ae07d5f)
