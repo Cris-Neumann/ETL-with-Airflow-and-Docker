@@ -12,6 +12,8 @@ Este proyecto de ETL extrae información desde archivos CSV, ejecuta con Docker-
 
 ## Arquitectura empleada
 El esquema general del modo en que se relacionan las partes del sistema es el siguiente:
+<br/><br/>
+
 ![etl_airflow_docker](https://github.com/Cris-Neumann/Codigo_abierto/assets/99703152/b3704d19-69b4-4fa5-9b36-19aefb65691c)
 
 ## Conexión desde PostgreSQL a Power BI
