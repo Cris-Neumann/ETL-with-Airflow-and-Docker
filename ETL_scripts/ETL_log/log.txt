@@ -1,0 +1,6 @@
+Logs.
+
+07-07-2023, 00:12:02: Actualizacion BBDD PostgreSQL con exito, 6 registros actualizados y 0 registros insertados.
+07-07-2023, 00:13:02: Actualizacion BBDD PostgreSQL con exito, 6 registros actualizados y 0 registros insertados.
+09-07-2023, 01:01:35: Actualizacion BBDD PostgreSQL con exito, 10 registros actualizados y 990 registros insertados.
+09-07-2023, 01:01:49: Actualizacion BBDD PostgreSQL con exito, 1000 registros actualizados y 0 registros insertados.
