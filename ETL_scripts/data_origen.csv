@@ -1,0 +1,1001 @@
+﻿id_usuario;rut;nombre;apellido;edad;genero;direccion;zona;pais;segmento;cod_seguro;ingreso_medio;gasto_medio
+309;45646130;Elodia;Bejarano;20;Masculino;Cobourg, ON K9A 5G0;Asia;Laos;A;C0014;1466075;355890
+201;46588652;Susana;Natividad;20;Masculino;San Francisco, CA 94122;Europa;Spain;A;C0014;1836378;516799
+218;34789913;Yago;Cuesta;20;Femenino;Manotick, ON K4M 6S8;África;Liberia;B;C0013;489369;299815
+505;30196629;Belen;Carbajo;20;Masculino;London;Australia y Oceanía;Solomon Islands;B;C0018;821459;364776
+576;31714663;Adelina;Valentín;20;Femenino;EC06 3FQ;Europa;Lithuania;B;C0012;2465760;236510
+677;38942977;Xiomara;Almazán;20;Masculino;874 Manor Road;Europa;Ukraine;B;C009;805823;994038
+989;42354198;Juan;Florencio;20;Masculino;818 North Ridge St.;Europa;Bosnia and Herzegovina;B;C0015;2017382;520816
+439;42336016;Silvio;Castellanos;20;Masculino;Hialeah, FL 33015;África;Benin;C;C0013;374179;621674
+470;41745865;Osvaldo;Seco;20;Femenino;27 Grandrose Ave.;África;Liberia;C;C008;378878;30071
+390;31961179;Jose;Feijoo-Goñi;20;Femenino;Hialeah, FL 33018;Asia;Turkmenistan;C;C0010;1412908;339089
+420;36385983;Martirio;Pacífica;20;Femenino;Fort Lauderdale, FL 33313;Asia;South Korea;C;C007;1381291;640454
+716;38694850;Octavio;Bello;20;Femenino;9505 The Grove;Asia;Tajikistan;C;C0014;1129112;394790
+911;45912056;Amancio;Bellido;20;Masculino;612 Silver Spear Dr.;Australia y Oceanía;Kiribati;C;C0019;1582522;84042
+343;31338077;Marcos;Diez;20;Masculino;Orlando, FL 32812;Centroamérica y Caribe;Jamaica;C;C0019;838550;501963
+403;47390903;Pío;Barrio;20;Masculino;Orlando, FL 32811;Europa;Montenegro;C;C008;2185468;340057
+565;35339966;Apolonia;Roma;20;Masculino;London;Europa;Croatia;C;C005;1405061;85712
+43;42238294;Gracia;Fuster;20;Masculino;CREWE;África;Jordan;D;C0018;607354;673358
+594;34254857;Clarisa;Mena;20;Femenino;E21 5SK;África;Afghanistan;D;C007;467626;219435
+816;48241282;Melisa;Peralta;20;Femenino;17 Ashley Street;África;Togo;D;C000;441136;143443
+929;39440755;Ainara;Ropero;20;Masculino;62 Swanson Dr.;Asia;India;D;C0013;772045;578942
+92;41202721;Ricarda;Ponce-Losada;20;Femenino;472 Mill Lane;Australia y Oceanía;Samoa ;D;C004;557744;646074
+189;49666245;Juan;Villanueva;20;Masculino;Riverside, CA 92509;Australia y Oceanía;Tuvalu;D;C0018;1318050;781945
+511;34833193;Adelaida;Almansa;20;Masculino;London;Australia y Oceanía;Solomon Islands;D;C0020;441749;585566
+507;39648415;Felicidad;Carpio;20;Masculino;EC65 7IP;Europa;Russia;D;C0017;1657614;20870
+407;42583703;Benigno;Pascual;20;Masculino;Ormond Beach, FL 32174;África;Democratic Republic of the Congo;E;C0016;165018;327186
+872;45384895;Poncio;Roma;20;Femenino;679 Oak Meadow Ave.;África;Ethiopia;E;C008;391094;254721
+394;36086326;Joan;Aitana;20;Femenino;Jacksonville, FL 32225;Asia;Philippines;E;C001;785174;420131
+151;49831917;Lara;Cabeza;21;Masculino;7075 Lake Forest Rd.;África;Republic of the Congo;A;C002;556632;327386
+517;48519671;Benita;Martorell;21;Masculino;London;África;Democratic Republic of the Congo;A;C0020;739918;679882
+739;41803472;Esteban;Alejo;21;Masculino;London;Europa;United Kingdom;A;C0013;2253316;1372308
+30;37013454;Nuria;Jurado-Mata;21;Femenino;8127 Pawnee Lane;África;Kenya;B;C0014;463775;271706
+603;35844992;Adalberto;Carreras;21;Masculino;E75 8HS;Asia;Nepal;B;C000;1589511;56003
+295;41515126;Susanita;Morcillo-Calvo;21;Masculino;Huntsville, ON P1H 2C9;Centroamérica y Caribe;Jamaica;B;C0017;1325202;499115
+573;37012922;Benita;Isidro;21;Masculino;SE53 2CJ;África;Lesotho;C;C0016;586452;648486
+897;30469128;Teófilo;Sáenz;21;Masculino;35 Airport Street;África;Botswana;C;C0016;491531;683300
+262;33225175;Eutropio;Rodriguez;21;Femenino;Stouffville, ON L4A 6L1;Asia;Japan;C;C001;1451532;139398
+735;46508918;Baudelio;Polo;21;Masculino;NW54 0QY;Australia y Oceanía;Samoa ;C;C0013;386144;616040
+959;36342564;Íñigo;Anguita;21;Masculino;7017 Walt Whitman Street;Australia y Oceanía;Solomon Islands;C;C005;563350;442939
+891;36374611;Abril;Barroso;21;Masculino;9752 Blackburn Dr.;Europa;Croatia;C;C008;981828;225803
+22;34658842;Lisandro;Ramírez;21;Femenino;8842 Old Van Dyke Ave.;África;The Gambia;D;C009;632715;364417
+128;42236882;Conrado;Salas;21;Femenino;92 Brickell Drive;África;Burundi;D;C000;319502;700701
+754;43317734;Rosendo;Ávila;21;Femenino;London;África;Guinea-Bissau;D;C0012;184397;406328
+287;49482576;Ligia;Feijoo;21;Masculino;Leamington, ON N8H 0N3;Asia;Bhutan;D;C0017;1185496;762679
+107;40348929;Estrella;Paz;21;Masculino;41 Victoria Street;Europa;Bulgaria;D;C004;866286;474282
+296;33575656;Dimas;Franco;21;Femenino;Lachute, QC J8H 9V1;Europa;Liechtenstein;D;C002;817373;1319264
+993;31510053;Teodosio;Arjona;21;Masculino;37 Sunbeam Lane;Norteamérica;Mexico;D;C002;965150;570980
+169;32261787;Teodora;Díaz;21;Masculino;487 East 6th St.;África;Cameroon;E;C002;333705;377965
+179;41135491;Rufina;Maximino;21;Masculino;Pico Rivera, CA 90660;África;Somalia;E;C005;410846;196210
+39;37744555;Trini;Vizcaíno;21;Masculino;850 School St.;Asia;South Korea;E;C004;320604;392914
+528;32560333;Abril;Bernat;21;Femenino;NW10 6DG;Asia;India;E;C002;747901;128991
+629;39744001;Encarnacion;Caballero;21;Masculino;78 Springfield Road;Asia;Indonesia;E;C0011;506354;171932
+174;46082950;Victor;Cerdán;21;Femenino;791 Silver Spear Street;Europa;Latvia;E;C0011;1018217;830311
+728;41520547;Mayte;Villa;21;Femenino;76 Queensway;Europa;Andorra;E;C0016;1287410;374346
+319;32201317;Remigio;García;22;Masculino;Tampa, FL 33614;África;Libya;A;C0015;379602;151261
+918;43198276;Leocadia;Rovira;22;Femenino;14 Charles Ave.;África;Sudan;B;C001;855550;58035
+780;41599097;Hernando;Marín;22;Femenino;855 Colonial St.;África;Iran;C;C0014;719208;465693
+798;42902486;Consuela;España;22;Femenino;9983 Woodside Street;África;South Sudan;C;C0020;645834;39244
+162;38943277;Victoriano;Itziar;22;Femenino;861 Oakland St.;África;Pakistan;D;C0018;409047;443346
+560;49946052;Sonia;Hurtado;22;Femenino;85 Broadway;África;Iran;D;C005;651362;663659
+659;46147326;Adelia;Porcel;22;Masculino;21 Manor Road;África;Iraq;D;C0016;603141;364713
+864;43991801;Baltasar;Tomás;22;Femenino;559 Young St.;Asia;Taiwan;D;C0015;1077738;548601
+207;42931700;Luís;Fanny;22;Masculino;Long Beach, CA 90805;África;Liberia;E;C005;449672;421866
+478;32968761;Primitiva;Tamarit;22;Femenino;93 East Longbranch Dr.;Europa;Slovenia;E;C0010;769601;1052403
+251;47969707;Nieves;Morante-Portero;23;Masculino;Hanover, ON N4N 0G1;África;Mozambique;A;C005;502666;724092
+899;37615018;Gonzalo;Chacón;23;Masculino;824 Woodside Avenue;Australia y Oceanía;Kiribati;A;C009;427290;906542
+80;43996803;Pía;Cervera;23;Femenino;92 Park Avenue;Europa;Ireland;A;C006;1040238;1198174
+545;30274481;Duilio;Araceli;23;Masculino;65 Kings Road;Europa;Andorra;A;C0013;2669700;155454
+717;33696802;Eligio;Rosalina;23;Masculino;SE31 9GQ;Europa;Montenegro;A;C000;809802;429029
+224;35299251;Pepe;Morcillo;23;Femenino;Winnipeg, MB R2C 4A3;África;Lebanon;B;C0017;273486;78688
+250;45475481;Elisa;Gallart;23;Femenino;McAdam, NB E6J 7T4;Australia y Oceanía;Tonga;B;C006;805814;23176
+125;31750266;Sosimo;Gimenez-Lasa;23;Masculino;8678 Glen Eagles Rd.;Centroamérica y Caribe;Cuba;B;C0011;981479;153709
+42;43487286;Nerea;Jaén;23;Femenino;MK9 3EN;Asia;Vietnam;C;C005;335817;216390
+547;31959437;Nicolás;Isern;23;Masculino;London;Europa;Italy;C;C0012;2305290;671281
+642;33081058;Norberto;Cantero;23;Femenino;N85 7LD;Europa;San Marino;C;C006;1122021;201599
+988;45886386;Socorro;Peralta;23;Femenino;48 North Arch St.;Europa;Hungary;C;C0013;1217046;226344
+534;34203529;Nicanor;Bilbao;23;Femenino;N59 6EV;África;The Gambia;D;C0017;523829;156382
+504;32119446;Heliodoro;Becerra;23;Femenino;W96 8WX;Australia y Oceanía;Nauru;D;C000;274001;421571
+111;37902150;Manola;Vila;23;Masculino;L52 8LM;Europa;Andorra;D;C0016;1442318;1119270
+611;38745381;Luis;Rovira;23;Masculino;517 Stanley Road;Europa;Hungary;D;C003;617879;344330
+682;37300818;José;Contreras;23;Femenino;London;Europa;Estonia;D;C000;1234320;1171636
+370;35457229;Benito;Antonio;23;Femenino;Boynton Beach, FL 33435;África;Saudi Arabia;E;C001;365503;26127
+465;37897561;Anastasio;Morán;23;Masculino;8958 Golf St.;África;Sao Tome and Principe;E;C008;469581;388753
+733;35999048;Enrique;Salcedo;23;Masculino;London;África;Uganda;E;C000;343187;185897
+889;32666425;Soraya;Quirós;23;Masculino;56 Nut Swamp Circle;África;Ethiopia;E;C0014;337572;111760
+902;30838158;Angelina;Alemany;23;Femenino;39 Goldfield Rd.;Asia;Brunei;E;C006;320020;365015
+509;35761068;Eligia;Peralta;23;Masculino;71 North Street;Australia y Oceanía;Vanuatu;E;C0016;452638;335857
+951;40833942;Baltasar;Riquelme;23;Masculino;8857 Gonzales Street;Australia y Oceanía;Australia;E;C0013;578118;364817
+660;42558527;Atilio;Luis;23;Femenino;EC85 9TN;Europa;Moldova ;E;C0014;300446;823760
+354;46013572;Telmo;Valls;24;Femenino;Tampa, FL 33617;África;Senegal;A;C0013;882873;769440
+471;36425232;Tere;Vega;24;Masculino;895 Sleepy Hollow St.;África;South Sudan;A;C002;603322;227687
+950;39855662;Amancio;Vega;24;Femenino;135 Airport Ave.;África;Lebanon;A;C001;418889;75999
+654;37790552;Melania;Mendizábal;24;Femenino;SW73 5IR;Asia;Maldives;A;C003;1773073;110105
+144;30549112;Curro;Jimenez;24;Femenino;940 E. Primrose Ave.;Australia y Oceanía;Vanuatu;A;C0011;1375179;34435
+195;38875743;Gala;Villanueva;24;Masculino;Victorville, CA 92392;Australia y Oceanía;Solomon Islands;A;C0011;1297063;410966
+350;33135957;Hernán;Cañellas-Abad;24;Femenino;Winter Springs, FL 32708;Australia y Oceanía;Samoa ;A;C000;1395816;152213
+652;35764877;Calixto;Vilanova;24;Femenino;London;Asia;Turkmenistan;B;C0010;1730199;289063
+58;48734762;Narcisa;Casandra;24;Femenino;SHREWSBURY;Europa;Austria;B;C005;553402;226112
+616;39169759;Mamen;Fabregat;24;Femenino;London;Europa;Belgium;B;C0011;1465141;727180
+679;42004664;Mayte;Rosselló;24;Masculino;London;Europa;France;C;C003;584575;289924
+968;30570069;Palmira;Zoraida;24;Femenino;8606 Edgewood Lane;Australia y Oceanía;Australia;D;C0015;818976;40363
+275;42213155;Amaya;Casanovas;24;Masculino;Cap-Rouge, QC G1Y 7T2;Europa;Netherlands;D;C006;780291;163161
+245;38685450;Amparo;Rovira;24;Masculino;Vancouver, BC V5K 7G2;África;Angola;E;C005;208682;480488
+409;30612324;Olivia;Sanchez;24;Masculino;Miami, FL 33157;África;Ghana;E;C000;174316;460450
+852;36518411;Matías;Araceli;24;Femenino;9656 Beaver Ridge St.;África;Saudi Arabia;E;C003;463650;209141
+646;43906336;Víctor;Crespi;24;Femenino;London;Asia;Malaysia;E;C005;953754;586272
+496;32413690;Danilo;Leal;24;Femenino;London;Centroamérica y Caribe;Saint Lucia;E;C007;286532;175172
+325;31385083;Olimpia;Valentín;24;Masculino;Opa Locka, FL 33055;Europa;Estonia;E;C009;1150995;1001214
+725;48478310;David;Galván;25;Masculino;11 The Avenue;Asia;Philippines;A;C0018;1847727;399393
+678;31841119;Moreno;Pinto;25;Femenino;EC17 3MA;África;Sudan;B;C0016;306674;303975
+991;37609120;Olimpia;Chuy;25;Masculino;13 4th Rd.;África;The Gambia;B;C0016;231107;696627
+586;31043865;Feliciana;Vallejo-Coll;25;Femenino;London;Asia;Indonesia;B;C0017;1324406;850360
+213;42269595;Toribio;Sanmiguel;25;Masculino;Salinas, CA 93905;Europa;Germany;B;C0012;1077214;13837
+455;44499935;Amílcar;Gomis-Bello;25;Masculino;62 Homewood Street;África;Seychelles ;C;C0015;364665;619442
+550;30544867;Alejandra;Aranda;25;Femenino;London;África;Qatar;C;C004;455258;344592
+183;31308861;Rómulo;Vicens;25;Masculino;Los Angeles, CA 90004;Norteamérica;Greenland;C;C006;1333457;262239
+914;36127543;Dionisia;Garrido;25;Femenino;8579 Greenview St.;Norteamérica;Greenland;C;C0019;801773;265187
+67;30089571;Gilberto;Celestina;25;Masculino;BIRMINGHAM;África;Tanzania;D;C0018;398646;354498
+205;49828438;Socorro;Nogués;25;Masculino;Alameda, CA 94501;África;The Gambia;D;C0015;447234;518392
+878;37942295;Adelia;Almansa-Bárcena;25;Femenino;8664 Oak Valley Drive;África;Burundi;D;C006;597754;109906
+787;39293569;Clemente;Anguita;25;Masculino;606 Galvin Street;Australia y Oceanía;Australia;D;C0013;490460;449120
+206;43336558;Otilia;Jove;25;Femenino;Oakland, CA 94601;Europa;Luxembourg;D;C0020;1175899;993811
+153;31391878;Adriana;Alcántara;25;Masculino;8026 New Saddle St.;África;South Sudan;E;C0010;176567;147487
+901;39514232;Leandro;Mena;25;Masculino;21 Creek Drive;África;Israel;E;C000;500358;271756
+331;33888923;Nicanor;Valera;25;Masculino;Fort Lauderdale, FL 33319;Asia;Maldives;E;C000;268309;105890
+368;33090082;Chus;Cortés;26;Femenino;Jupiter, FL 33458;África;Lesotho;A;C0018;632198;474730
+801;35678359;Elena;Dulce;26;Masculino;85 Lookout Ave.;África;Kuwait;A;C0019;645001;462273
+977;31935385;Luis;Batalla;26;Masculino;918 Fordham St.;Asia;Kyrgyzstan;A;C0012;1023343;455015
+997;40831742;Elena;Ibañez;26;Masculino;8672 S. Mechanic Dr.;Asia;India;A;C0012;1227793;833119
+446;30467492;Manuelita;Camino-Briones;26;Femenino;Jacksonville, FL 32207;Australia y Oceanía;Palau;A;C0017;724470;756397
+881;41627800;Pacífica;Bustamante;26;Masculino;92 Marvon St.;Centroamérica y Caribe;Dominican Republic;A;C0019;1729983;38648
+882;48608005;Victorino;Tur;26;Femenino;905 Wrangler Lane;Europa;Poland;A;C005;1823162;1173980
+782;37486138;Morena;Escribano;26;Femenino;440 Cactus St.;África;Cameroon;B;C0017;818252;99014
+379;30534837;Áurea;Chamorro-Vives;26;Masculino;Jacksonville, FL 32257;Asia;China;B;C0012;1508022;592568
+473;43253611;Adelardo;Marín;26;Masculino;7049 Water Road;Centroamérica y Caribe;Saint Lucia;B;C003;1375065;458130
+905;32608579;Blanca;Abril;26;Masculino;88 Maple Circle;Centroamérica y Caribe;Haiti;B;C000;965354;356051
+630;44433573;Toribio;Casanovas-Riba;26;Femenino;NW41 6MG;Europa;Norway;B;C001;1157012;1215183
+566;45722150;Herminia;Oliva;26;Femenino;1 The Avenue;África;Swaziland;C;C0015;173210;480828
+190;39544097;Narciso;Armas;26;Femenino;Los Angeles, CA 90026;Europa;Bulgaria;C;C008;1654118;790278
+973;47044539;Mayte;Dulce;26;Masculino;9182 Market St.;África;Kenya;D;C0017;484734;326722
+444;48600594;José;Guzman;26;Femenino;Winter Park, FL 32792;Australia y Oceanía;Kiribati;D;C0017;700194;770636
+994;34657975;Juan;Peinado;26;Femenino;679 Philmont St.;Europa;France;D;C0016;712168;123052
+209;39187971;Samu;Palomino;26;Masculino;Huntington Park, CA 90255;África;Syria;E;C0012;368826;203261
+338;34636093;Cristina;Espada;26;Femenino;Pompano Beach, FL 33063;África;Bahrain;E;C0010;456479;134188
+164;37957718;Ligia;Lladó;26;Femenino;9754 Brookside Street;Asia;Thailand;E;C002;905706;507630
+691;40215110;Paola;Luis;26;Masculino;London;Australia y Oceanía;Palau;E;C001;778114;503826
+126;39020243;Abel;Palacios;27;Femenino;7487 College Rd.;África;Malawi;A;C000;218385;511840
+346;39608775;Carolina;Villalba;27;Femenino;Pompano Beach, FL 33064;África;Iran;A;C0019;350363;443790
+23;35184420;Samanta;Vigil;27;Masculino;471 S. Cambridge Drive;Asia;Myanmar;A;C002;2107554;457708
+462;48953305;Paca;Villena-Saura;27;Femenino;9661 Aspen St.;Asia;Turkmenistan;A;C0013;559816;730485
+741;38326353;Severino;Jáuregui;27;Masculino;EC70 8TD;Asia;Nepal;A;C0011;1428875;507797
+983;41252955;Juan;Becerra;27;Masculino;35 Miller St.;Europa;Italy;A;C007;1156671;1712975
+570;44602952;Angelino;Rodrigo;27;Femenino;W42 9AC;Asia;Malaysia;B;C0017;634170;569148
+456;42215690;Laura;Giner;27;Femenino;95 Delaware Dr.;Europa;Andorra;B;C002;1180732;344370
+129;40208716;Leoncio;Palacios;27;Masculino;503 Delaware Street;África;Liberia;C;C0020;898421;420888
+926;34528136;Manuela;Guitart;27;Femenino;37 Garfield Dr.;África;Yemen;C;C004;797073;179309
+722;48068300;Alcides;Ponce-Quintana;27;Femenino;4 Mill Road;Europa;Ukraine;C;C0018;1016847;1187138
+13;42863537;Soraya;Enríquez;27;Masculino;611 Academy Street;África;Zambia;D;C001;716321;627694
+931;31427123;Andrés;Reina;27;Masculino;15 East Richardson Drive;África;Morocco;D;C005;703110;629557
+194;34173817;Miguel;Anabel;27;Femenino;Van Nuys, CA 91405;Asia;Mongolia;D;C000;1300899;487494
+401;36387704;Tomasa;Raquel;27;Masculino;Orlando, FL 32808;Asia;Singapore;D;C0018;1143550;243416
+727;44487948;Tecla;Bejarano;27;Masculino;London;Asia;Turkmenistan;D;C006;295826;573185
+752;38499737;Roberto;Calatayud;27;Femenino;213 The Drive;Asia;Thailand;D;C0011;1128310;560854
+305;31830838;Nayara;Múgica;27;Masculino;Boucherville, QC J4B 9T3;Australia y Oceanía;Solomon Islands;D;C007;1061464;399923
+391;36722550;María;Agustí;27;Masculino;Miami, FL 33173;Australia y Oceanía;Papua New Guinea;D;C005;1416847;595621
+488;48634965;Inés;Castell;27;Femenino;9241 Grove Road;Australia y Oceanía;Nauru;D;C0013;561884;572923
+841;49819473;Nicolás;Bilbao;27;Masculino;7019 Maple St.;Centroamérica y Caribe;Barbados;D;C0017;501716;166414
+254;42395512;Eliana;Puig;27;Femenino;Wallaceburg, ON N8A 3M8;África;South Sudan;E;C0019;126599;483267
+947;35683177;Zacarías;Aparicio;27;Masculino;8046 Clay Street;África;Namibia;E;C0014;520494;411485
+117;44153907;Samanta;Ortega-Giner;27;Masculino;376 South Griffin Street;Asia;Japan;E;C0015;1099390;151979
+523;45039531;Carmelita;Anastasia;27;Masculino;London;Australia y Oceanía;Federated States of Micronesia;E;C000;856101;6367
+873;39452574;Andrés;Oliva;27;Masculino;490 W. Vernon Street;Australia y Oceanía;Nauru;E;C003;241125;176719
+934;32079714;Maximino;Almeida;27;Femenino;7465 Rosewood Road;Australia y Oceanía;Federated States of Micronesia;E;C004;1090564;73202
+279;41184315;Reina;Casanovas;27;Masculino;Innisfail, AB T4G 7N5;Centroamérica y Caribe;Dominican Republic;E;C0020;467786;33398
+568;34502170;Milagros;Celia;27;Femenino;London;Europa;Germany;E;C005;875051;825300
+670;43120359;Noemí;Aramburu;28;Femenino;London;África;Equatorial Guinea;A;C000;1111240;266531
+419;42564877;Rosa;Arregui;28;Masculino;Saint Petersburg, FL 33713;Centroamérica y Caribe;Haiti;A;C0020;1757766;77207
+765;46925630;Emilia;Arnaiz;28;Masculino;8215 Atlantic St.;Europa;United Kingdom;A;C0013;1085432;593032
+597;44899594;Jose;Santiago;28;Masculino;W06 1LQ;Norteamérica;Mexico;A;C009;3194081;1194620
+303;33227884;Brígida;Bonet;28;Masculino;Dorchester, NB E4K 6V5;África;Central African Republic;B;C004;244077;726462
+819;33140373;Marco;Chuy;28;Masculino;26 East Main Dr.;África;Guinea-Bissau;B;C0011;316974;483274
+519;39249854;Benjamín;Llanos;28;Masculino;SE96 8YE;África;Mauritius ;C;C006;733267;175230
+650;45744935;Amaro;Estevez;28;Femenino;23 Park Avenue;África;Malawi;C;C000;234691;44021
+855;30926930;Asdrubal;Bauzà-Torrens;28;Masculino;9323 E. Old York St.;Asia;Turkmenistan;C;C0011;1469051;39778
+160;44385897;Gerardo;Gilabert;28;Femenino;916 E. Cactus Ave.;África;The Gambia;D;C003;455658;423518
+498;40726068;Ramiro;Batalla;28;Femenino;W94 3IX;África;Bahrain;D;C002;529250;437200
+501;49113273;Remedios;Plana;28;Masculino;E98 4TE;África;Angola;D;C003;724292;393835
+634;35744763;Fabio;Gutierrez;28;Femenino;London;Asia;Malaysia;D;C005;1486490;58008
+5;30769365; Joel;Gutierrez;28;Masculino;9893 W. Vale Ave.;Centroamérica y Caribe;Guatemala;D;C003;1050194;151880
+62;45943921;Adán;Alemán-Prats;28;Femenino;70 Green Lane;Europa;Georgia;D;C006;1492949;289499
+230;48478738;Cleto;Lucio;28;Femenino;Belledune, NB E8G 4R8;África;Iraq;E;C006;387630;348547
+112;33739385;Rita;Fuentes;29;Femenino;SUNDERLAND;África;Mali;B;C0020;579078;836401
+417;39807343;Federico;Marti;29;Masculino;Tampa, FL 33604;África;Jordan;B;C0011;555988;114474
+237;45382413;Borja;Ani;29;Masculino;Steinbach, MB R5G 1B0;Australia y Oceanía;Vanuatu;B;C0017;820077;246177
+380;41154012;Carina;Cañas;29;Femenino;Miami, FL 33165;Australia y Oceanía;New Zealand;B;C0019;1636224;697963
+434;42952301;Blanca;Quero;29;Femenino;Arcadia, FL 34266;África;Benin;C;C003;811862;651247
+639;41462274;Nicolás;Ayala;29;Masculino;N28 3JE;África;Mauritania;C;C007;353734;349146
+674;46395953;Ariel;Moya;29;Femenino;1 North Road;África;Mauritius ;C;C0010;202704;546587
+683;49626418;Marco;Cabañas;29;Masculino;45 South Street;África;Afghanistan;C;C007;229019;252568
+916;39618288;Óscar;María;29;Femenino;8995 Rockledge Street;Europa;Belgium;C;C0018;2771979;1527596
+373;36476304;Amílcar;Amor;29;Masculino;Homestead, FL 33033;Norteamérica;Greenland;C;C003;828149;843511
+406;40912038;Primitivo;Reyes;29;Femenino;Jacksonville, FL 32244;África;Sudan;D;C005;527188;80899
+845;44083070;Jenny;Herrero-Canet;29;Masculino;4 Proctor Ave.;Australia y Oceanía;Tonga;D;C005;844840;81996
+831;34546854;Modesto;Ojeda;29;Masculino;34 West Pleasant St.;Europa;Vatican City;D;C004;2000831;1285879
+447;40707795;Carmelo;Belda;29;Masculino;Clermont, FL 34711;África;Angola;E;C0018;374538;505500
+746;34447927;Leocadio;Pellicer;29;Femenino;93 St. John’s Road;África;Central African Republic;E;C006;131227;12981
+130;48657899;Marcia;Castro;29;Femenino;34 Anderson Ave.;Asia;Turkmenistan;E;C009;385343;678821
+437;45367331;Nayara;Rosell;29;Masculino;Riverview, FL 33569;Asia;Laos;E;C007;671788;209233
+680;30553529;Elena;Ferreras;29;Femenino;823 The Green;Asia;Laos;E;C002;962585;648344
+293;48594058;Juliana;Rivas;29;Masculino;Lanaudière-Nord, QC J0K 8T8;Europa;Greece;E;C0020;1133690;378051
+98;46039043;Abilio;Moya;30;Femenino;304 Springfield Road;África;Mali;A;C0015;262405;72153
+760;42413665;Valeria;Carnero;30;Femenino;London;Australia y Oceanía;New Zealand;A;C0010;2010912;209051
+253;34147966;Gustavo;Neira;30;Masculino;Mississauga, ON L4T 3V7;Europa;Romania;A;C007;2393563;468699
+145;43516707;Mario;Gaya;30;Masculino;8304 Van Dyke Avenue;África;Ethiopia;B;C0019;483371;512303
+146;47004830;Jesusa;Juanito;30;Femenino;86 Bradford Rd.;África;Niger;B;C0014;771581;116482
+653;39233532;Sofía;Velasco;30;Masculino;584 Park Avenue;África;United Arab Emirates;B;C0014;1073701;871195
+781;36361561;Mamen;Ballester;30;Masculino;48 Sunbeam St.;África;Burundi;B;C0016;309289;296487
+992;45312538;Vito;Albero;30;Femenino;308 Elmwood Ave.;Europa;Norway;B;C006;2509530;1643633
+458;47056699;Nicolasa;Real-Tolosa;30;Femenino;8546 Ketch Harbour Ave.;África;Burundi;C;C003;457950;594096
+606;32411139;Urbano;Luis;30;Femenino;N12 0BH;África;Turkey;C;C006;809441;454743
+83;43897395;Guiomar;Fuentes;30;Masculino;58 Highfield Road;Europa;Malta;C;C0020;2161487;108827
+718;39822016;Elías;Rios;30;Femenino;London;África;Sao Tome and Principe;D;C0016;572574;627302
+221;38416206;Adolfo;Cervera;30;Masculino;Bonnyville, AB T9N 2P9;Asia;Philippines;E;C0019;1193897;344287
+2;35310078; Maria;Gonzalez;30;Femenino;77 Lyme Street;Europa;Malta;E;C002;1680946;756323
+445;47167022;María;Lastra-Cuervo;30;Masculino;Palmetto, FL 34221;Europa;Albania;E;C0014;468646;789783
+173;33546644;Jacinta;Sedano;31;Masculino;830 High Point Court;África;Liberia;A;C002;1267157;376510
+812;45108821;Ángela;Carbajo;31;Femenino;8117 Birch Hill Rd.;África;Rwanda;A;C0020;1107986;543565
+402;44417911;José;Alberola;31;Femenino;Oviedo, FL 32765;Asia;Laos;A;C006;1393519;319249
+850;39154292;Yago;Leon;31;Femenino;9050 West Catherine Dr.;Asia;Uzbekistan;A;C000;2100986;1079129
+561;42207597;Aitor;Acero;31;Masculino;N71 3MK;Australia y Oceanía;New Zealand;A;C0016;1996463;181317
+771;31478302;Emperatriz;Pla;31;Masculino;541 S. State Dr.;Europa;Russia;A;C0010;3461253;1117023
+734;33824919;Clara;Gras;31;Femenino;94 New Road;Europa;Albania;B;C0018;3330897;781888
+753;39046447;Yolanda;Castro;31;Masculino;NW58 3QB;Europa;Georgia;B;C007;2104654;830987
+358;41294393;Poncio;Moles-Verdú;31;Femenino;West Palm Beach, FL 33414;África;Morocco;C;C005;631899;523767
+212;38302630;Carla;Belén;31;Femenino;Spring Valley, CA 91977;Asia;Laos;C;C0014;1377520;909293
+698;38550003;Renato;Llamas;31;Femenino;79 The Avenue;Asia;Vietnam;C;C003;1607412;132584
+127;36049063;Alicia;Castellanos;31;Masculino;8 Westminster Ave.;Australia y Oceanía;Tuvalu;C;C001;1519684;938569
+475;44317825;Donato;Escribano;31;Masculino;9198 West Grant Street;Europa;Portugal;C;C000;2920385;1460472
+563;48186953;Goyo;Bravo-Cano;31;Masculino;877 North Road;Europa;Lithuania;C;C008;1287633;1129444
+294;34534168;Catalina;Goñi;31;Femenino;Saint-Colomban, QC J5K 6C2;África;Benin;D;C0010;670430;869048
+246;31978050;Amparo;Azcona;31;Femenino;Esquimalt, BC V9A 7T3;Asia;Brunei;D;C0011;369609;644128
+930;48617310;Claudio;Baquero-Cánovas;31;Femenino;269 Hartford St.;Asia;Taiwan;D;C002;597912;967692
+106;30411066;Pili;Valeria;31;Femenino;DUMFRIES;África;South Sudan;E;C0013;557367;416714
+558;47145385;Adora;Nicolau;31;Femenino;W43 9QS;África;Azerbaijan;E;C0017;388993;286253
+588;41753392;Fortunata;Diego;31;Femenino;N05 2BR;África;Lebanon;E;C004;378185;195795
+936;37418042;Beatriz;Caballero;31;Femenino;8987 Tunnel Court;África;Ghana;E;C0011;344821;292066
+415;40588107;Mayte;Gilabert;31;Masculino;Deltona, FL 32725;Europa;Latvia;E;C005;1433255;921274
+626;41980208;Obdulia;Milla-Martorell;31;Femenino;363 The Green;Europa;Finland;E;C0013;1884141;826057
+202;43066776;Emelina;Téllez;32;Femenino;Costa Mesa, CA 92627;África;Cote d'Ivoire;A;C0014;1278446;512743
+833;48357670;Guiomar;Aliaga;32;Masculino;38 Nut Swamp St.;África;Gabon;A;C0010;956677;423884
+799;45859110;Juan;Mulet;32;Masculino;23 Tarkiln Hill Avenue;Asia;Maldives;A;C0014;1012679;1202553
+7;49468628;Leandra;Zabala;32;Masculino;9001 Creek Street;Australia y Oceanía;Fiji;A;C008;1177718;477532
+281;49599939;Morena;Tamayo;32;Masculino;Grande-Anse, NB E8N 7C1;África;Kuwait;B;C0020;835732;87471
+806;44035304;Apolonia;Novoa;32;Femenino;759 E. Foxrun Ave.;África;Liberia;B;C009;339095;387228
+984;46832180;Carina;Carbajo;32;Femenino;7545 Yukon Street;África;Bahrain;B;C003;576640;983965
+155;41770279;Estela;Sofía;32;Masculino;404 Railroad St.;Australia y Oceanía;Palau;B;C008;1414765;959791
+970;45243222;Ariel;España;32;Femenino;417 Nut Swamp Lane;Centroamérica y Caribe;Dominican Republic;B;C009;1195921;770515
+909;45662015;Eugenio;Saura;32;Masculino;75 Jefferson Lane;Europa;Georgia;B;C0019;901943;518199
+236;31943806;Estela;Arnal;32;Femenino;Wetaskiwin, AB T9A 7X8;África;Nigeria;C;C006;702784;283392
+759;32688679;Felicidad;Zabala;32;Masculino;WC52 1ML;África;Djibouti;C;C0013;519035;84092
+18;45230380;Dani;Sastre;32;Femenino;7 N. Annadale Street;Centroamérica y Caribe;Dominican Republic;C;C004;1358515;652490
+702;32961378;Mamen;Aznar;32;Femenino;SW74 5VB;Centroamérica y Caribe;Jamaica;C;C002;1293938;278836
+88;43015449;Felicia;Jordana;32;Femenino;WESTERN CENTRAL LONDON;Europa;Netherlands;C;C0020;2798267;609751
+96;38030178;Teodosio;Valencia;32;Femenino;HA62 8DU;Europa;Hungary;C;C0014;2820393;715217
+171;42191273;Carla;León;32;Masculino;9586 Sycamore Dr.;Europa;Serbia;C;C0020;3081209;401162
+306;44966786;Isidoro;Valentín;32;Femenino;Lacombe, AB T4L 0S1;África;Seychelles ;D;C009;501226;29673
+554;32738167;Etelvina;Batalla;32;Femenino;95 South Street;África;Madagascar;D;C0011;602934;887693
+191;36519638;Martirio;Ocaña;32;Masculino;Fairfield, CA 94533;Asia;Bangladesh;D;C0010;663094;178991
+387;38322864;Nayara;Cortes;32;Masculino;Miami, FL 33176;Centroamérica y Caribe;Cuba;D;C0015;315404;495430
+548;33813353;Gonzalo;Bauzà-Torrens;32;Femenino;45 Main Road;África;Tanzania;E;C005;368292;568838
+556;34636351;Juan;Vaquero;32;Femenino;London;África;Swaziland;E;C007;396498;622290
+404;41596969;Amelia;Matas;32;Femenino;Cape Coral, FL 33904;Centroamérica y Caribe;Barbados;E;C007;233202;451941
+526;34678755;Eusebio;Aliaga;33;Femenino;London;África;Democratic Republic of the Congo;A;C0017;622599;442147
+999;44144431;Yésica;Gertrudis;33;Masculino;116 Division Lane;Europa;Finland;A;C0016;1159652;193427
+542;30063159;Bibiana;Simó;33;Femenino;44 School Lane;África;Rwanda;B;C0018;825998;201708
+802;41788856;Pilar;Roig;33;Femenino;37 Fairview Ave.;África;Rwanda;B;C000;346800;900934
+76;49424899;Balduino;Llorens;33;Femenino;SOUTH WEST LONDON;Asia;India;B;C0016;1199032;1067665
+367;38576878;Simón;Quesada;33;Masculino;Fort Lauderdale, FL 33334;Centroamérica y Caribe;Nicaragua;B;C0018;1439501;882878
+869;32242791;Lina;Palomo;33;Masculino;9690 Princess Ave.;Europa;Montenegro;B;C002;1708770;1655615
+161;48624211;Elías;Galván;33;Masculino;218 Lake St.;África;Guinea-Bissau;C;C0019;802160;415688
+422;34594139;Felisa;Losa;33;Femenino;Orlando, FL 32835;África;Mozambique;C;C0012;445798;306039
+416;39495645;María;José;33;Femenino;Palm Bay, FL 32907;Australia y Oceanía;Australia;C;C005;1599652;13040
+821;40944518;Josep;Arjona;33;Masculino;497 Maiden Street;Centroamérica y Caribe;The Bahamas;C;C0010;388916;388312
+85;47914974;Emperatriz;Contreras;33;Masculino;OUTER HEBRIDES;África;Madagascar;D;C0020;690042;54896
+742;41706734;Corona;Luz;33;Femenino;London;África;Mali;D;C0019;766238;769254
+848;44640797;Socorro;Landa;33;Femenino;7652 Lakeshore Court;Australia y Oceanía;Kiribati;D;C006;632467;421548
+544;37690328;Danilo;Ballesteros-Francisco;33;Femenino;London;Europa;Ireland;D;C000;1116326;1322864
+335;41448040;Lucho;Giménez;33;Masculino;Hollywood, FL 33029;Norteamérica;Canada;D;C0019;842254;1693013
+574;33589821;Zaida;Bustamante;33;Femenino;London;África;Benin;E;C003;430897;54578
+256;40095732;Marciano;Bayo;33;Femenino;Cowansville, QC J2K 8Y0;Centroamérica y Caribe;Costa Rica;E;C0018;305575;62278
+757;44570793;Georgina;Luis;33;Masculino;London;Centroamérica y Caribe;Trinidad and Tobago;E;C005;869719;472666
+796;33303483;Ágata;Zoraida;33;Femenino;8142 Lees Creek Rd.;Norteamérica;Greenland;E;C0010;481994;1237851
+163;47524987;Vera;Morán;34;Masculino;8356 Bank Ave.;África;Mauritania;A;C0013;711114;812570
+208;33086461;Julie;Salas;34;Femenino;Merced, CA 95340;África;Burundi;A;C0013;1327967;961904
+790;31924527;Porfirio;Alemany;34;Femenino;54 Indian Summer Street;África;Turkey;A;C000;1323010;877982
+853;33999264;Luisa;Conesa;34;Masculino;106 Market Ave.;África;Zambia;A;C006;495703;216907
+100;34740786;Primitivo;Domitila;34;Femenino;CHESTER;Asia;North Korea;A;C0018;606038;614936
+867;45017546;Herminia;Hurtado;34;Masculino;9123 Shub Farm Road;Australia y Oceanía;Australia;A;C0015;928844;1153088
+57;40570056;Miguela;Francisco;34;Masculino;NW96 2RV;Europa;Moldova ;A;C008;1858474;824644
+915;38777733;Amada;Pons;34;Masculino;8483 Sugar Ave.;África;Zimbabwe;B;C0018;766465;953666
+785;31834057;Emilia;Tamarit;34;Masculino;810 10th St.;Europa;Ukraine;B;C007;794726;809933
+797;47882433;Leire;Fuente;34;Masculino;70 Green Hill Drive;Europa;Lithuania;B;C0015;1270875;492696
+598;34153342;Adoración;Abril;34;Femenino;London;África;Liberia;C;C0016;657746;747482
+75;46335784;Isidora;Ortiz;34;Masculino;WS53 7IY;Asia;Taiwan;C;C000;774279;568662
+500;33041494;Paola;Oliveras-Mármol;34;Femenino;601 London Road;Centroamérica y Caribe;Saint Lucia;C;C005;434694;455208
+958;43473725;Dimas;Hernando;34;Femenino;86 N. Poor House Ave.;Europa;Andorra;C;C0017;3302616;1664424
+99;48320160;Adora;Barragán;34;Masculino;BD84 2HP;África;Yemen;D;C0020;270745;689875
+184;33754942;Gastón;Teófila;34;Femenino;Folsom, CA 95630;África;Rwanda;D;C000;772831;555558
+20;33377694;Samuel;Granados;34;Femenino;8 Galvin Street;Asia;Uzbekistan;D;C003;1749011;938714
+193;32247268;Noa;Pacheco;34;Masculino;Daly City, CA 94015;Asia;China;D;C007;1431036;475102
+494;32380947;Dafne;Dulce;34;Femenino;165 Springfield Road;Asia;Kazakhstan;D;C0016;1144748;469778
+726;48212090;Eva;Rincón-Roldan;34;Femenino;NW16 9IB;Asia;Japan;D;C009;1688614;576974
+116;32257610;Jose;Cánovas;34;Femenino;24 Rock Maple Lane;Centroamérica y Caribe;Trinidad and Tobago;D;C009;671152;625775
+289;40970527;Timoteo;Roma-Estevez;34;Masculino;Youngs Cove, NB E4C 4K5;Europa;Germany;D;C0018;663146;978496
+876;48945824;Severo;Arroyo;34;Femenino;899 Shipley Ave.;Europa;Slovenia;D;C001;552493;610291
+108;43774486;María;Manuel;34;Femenino;LE96 5AZ;África;Seychelles ;E;C0011;579381;726505
+559;46213189;Sancho;Feijoo;34;Masculino;London;África;Madagascar;E;C000;331438;353727
+580;35621411;Lidia;Peñas;34;Femenino;London;África;Guinea;E;C0011;403822;61289
+464;31639920;Águeda;Pla;34;Femenino;7440 Cherry Hill Court;Asia;Indonesia;E;C0017;267077;480825
+476;41821292;María;Montero;34;Femenino;50 Lawrence Rd.;Asia;Malaysia;E;C007;314480;291609
+438;31036080;Maricela;Montero;34;Femenino;Leesburg, FL 34748;Australia y Oceanía;Nauru;E;C0012;315230;834392
+82;42140364;Sol;Roldán;35;Femenino;COVENTRY;África;Iraq;A;C0019;961531;579010
+283;32099431;Emma;Guardia;35;Masculino;St. Albert, AB T8N 8R8;Australia y Oceanía;Samoa ;A;C007;2491761;724416
+817;36255364;Anacleto;Florencio;35;Masculino;682 Glenwood Street;Australia y Oceanía;Marshall Islands;A;C0011;1758218;501936
+825;49580984;Rosendo;Ibañez;35;Masculino;20 Deerfield Lane;Australia y Oceanía;Palau;A;C003;2649522;179962
+215;39529340;Inés;Pombo;35;Masculino;Fontana, CA 92336;Centroamérica y Caribe;Jamaica;A;C004;1199118;542831
+883;34765524;Bibiana;Valentín;35;Masculino;9096 Clark Lane;Europa;Albania;A;C007;4029996;2184458
+290;45519843;Ester;Tello-Toledo;35;Femenino;Chatham, QC J8G 7X7;África;Tunisia ;B;C0014;781521;690836
+334;32641058;Alexandra;Melero;35;Femenino;Pensacola, FL 32526;África;Afghanistan;B;C007;938406;331530
+808;34368575;Elpidio;Plana;35;Femenino;8133 SE. Augusta Ave.;África;Liberia;B;C004;1168178;362561
+957;41342833;Román;Tamarit;35;Masculino;53 Cedarwood St.;África;Mozambique;B;C0020;530998;507258
+430;30335914;Sergio;Figuerola-Lorenzo;35;Femenino;Miami, FL 33172;Australia y Oceanía;Tonga;B;C005;780299;225776
+791;33414572;María;González;35;Masculino;719 Center Ave.;Centroamérica y Caribe;Grenada;C;C005;1107106;800564
+374;36580889;Seve;Javiera;35;Femenino;Orlando, FL 32837;Centroamérica y Caribe;Costa Rica;D;C0018;632357;551147
+624;30013298;Carmelita;Reina;35;Femenino;NW41 9IZ;África;The Gambia;E;C009;335385;234144
+648;37651459;Belen;Redondo;35;Femenino;WC72 9NZ;África;Malawi;E;C0020;688681;542780
+24;32972901;Albano;Huertas;35;Femenino;9 Military Dr.;Asia;Bhutan;E;C001;741634;690571
+197;48159768;Ariel;Alarcón;35;Masculino;San Diego, CA 92115;Asia;South Korea;E;C004;531605;745462
+834;45581348;Araceli;Machado;35;Femenino;505 Evergreen Dr.;Asia;Brunei;E;C009;492389;801325
+424;36014398;Lino;Beltran-Torralba;35;Femenino;Hollywood, FL 33023;Europa;Iceland;E;C0014;483341;458005
+119;44162630;Esteban;Jove-Ropero;36;Masculino;9530 Homewood St.;África;Azerbaijan;A;C004;956058;560201
+969;43615572;Gracia;Fuente;36;Masculino;8408 Broad Ave.;África;Cote d'Ivoire;A;C0011;570803;339046
+627;30594186;Eli;Almeida;36;Masculino;W28 9FC;Centroamérica y Caribe;Trinidad and Tobago;A;C007;1623488;652925
+700;45114126;Gerardo;Enríquez;36;Femenino;London;Europa;Portugal;A;C007;2172690;1605524
+482;37829985;Horacio;Moles;36;Femenino;41 School Lane;África;Tunisia ;B;C0016;959785;956684
+467;33317820;Isaac;Salmerón;36;Masculino;735 E. Newbridge St.;Asia;India;B;C007;1795783;419774
+355;34805430;Jose;García;36;Masculino;Fort Lauderdale, FL 33321;África;Mauritius ;C;C001;441098;969271
+435;34343058;Benito;Alfaro;36;Masculino;Daytona Beach, FL 32114;Asia;Philippines;C;C0020;441162;639406
+345;36266628;Rodolfo;Sanjuan;36;Masculino;Orlando, FL 32810;Australia y Oceanía;Federated States of Micronesia;C;C006;895446;1093646
+793;42848080;Victor;González;36;Masculino;73 Alderwood St.;Australia y Oceanía;Papua New Guinea;C;C0010;2289879;472021
+181;47963770;Jose;Ruiz;36;Masculino;Modesto, CA 95350;Europa;Cyprus;C;C007;1904717;313748
+886;40864959;Florinda;Real;36;Femenino;10 Rockwell Road;Europa;Czech Republic;C;C0020;2288853;634700
+948;40599705;Leyre;Rodríguez;36;Femenino;36 South Lake Forest Lane;Europa;San Marino;C;C007;1953266;1519635
+103;35477820;Cintia;Jerez;36;Masculino;GUILDFORD;Asia;Singapore;D;C0012;690554;280798
+300;38102711;Gala;Teresa;36;Femenino;Ville Émard, QC H4E 1K4;Australia y Oceanía;East Timor;D;C009;1324431;119079
+942;43865444;Encarnacion;Miguel;36;Femenino;7761 Glenridge St.;África;Iran;E;C0010;651570;405236
+731;36384746;Gabino;Olivé;36;Masculino;24 Kings Road;Australia y Oceanía;Solomon Islands;E;C008;1019158;140609
+667;37345092;Nicolasa;Paniagua-Antúnez;36;Masculino;London;Europa;Sweden;E;C001;1199917;1464642
+141;44249294;Ileana;Leiva;37;Masculino;95 Studebaker Street;Asia;Mongolia;A;C0010;2365681;1301853
+371;30525307;Amaya;Carballo;37;Masculino;Fort Lauderdale, FL 33351;Asia;Japan;A;C0018;1464320;679703
+672;48103174;Petrona;Gascón;37;Femenino;WC10 7YI;Asia;Myanmar;A;C0013;1722857;685133
+204;44524709;Gregorio;Aliaga;37;Femenino;Anaheim, CA 92801;Australia y Oceanía;Federated States of Micronesia;A;C005;1348918;1331010
+265;35779686;Catalina;Javier;37;Masculino;Laurentides-Sud, QC J0V 3M7;Australia y Oceanía;East Timor;A;C004;1774600;941654
+564;39879960;Rufino;Garay;37;Femenino;W93 5YP;África;Seychelles ;B;C0020;278423;613509
+919;37496602;Anabel;Pont;37;Masculino;178 Oakland Lane;África;Cote d'Ivoire;B;C000;895192;669095
+723;30053525;Sigfrido;Moreno;37;Masculino;SW50 4KB;Asia;Cambodia;B;C004;2478236;301126
+497;30945211;Aura;Salvà;37;Masculino;64 South Street;Centroamérica y Caribe;Jamaica;C;C005;1487950;819028
+77;36591683;Casandra;Zaragoza;37;Masculino;76 South Street;Europa;Romania;C;C002;707939;1020793
+493;38523785;Piedad;Ariadna;37;Masculino;London;Europa;Romania;C;C002;1659774;292734
+35;49811261;Otilia;Morales;37;Masculino;51 Mayfair Court;África;Lesotho;D;C0017;528125;953383
+340;45429502;Nélida;Olmedo;37;Femenino;Hialeah, FL 33013;Asia;Bangladesh;D;C008;484134;478491
+714;48306700;Nerea;Vigil;37;Femenino;SW21 9ZX;Centroamérica y Caribe;Panama;D;C005;1402513;47124
+51;35752091;Adoración;Marquez;37;Masculino;BN0 6LJ;África;Burundi;E;C0016;485265;931211
+732;30605594;Gerónimo;Chucho;37;Femenino;WC58 1WY;África;Democratic Republic of the Congo;E;C0012;146433;232084
+530;40359932;Carlos;Ortega;37;Femenino;800 Mill Road;Asia;Kyrgyzstan;E;C007;658181;350519
+508;48314624;Esteban;Fonseca;37;Femenino;London;Australia y Oceanía;Samoa ;E;C0020;494315;203319
+441;33135091;Marina;Mur;37;Masculino;Fort Lauderdale, FL 33311;Centroamérica y Caribe;Belize;E;C008;958338;222624
+569;40893007;Ema;Arroyo;37;Masculino;62 Richmond Road;Europa;Norway;E;C007;800400;799262
+19;31317224;Angelina;Amaya;38;Masculino;88 Pheasant Rd.;África;Libya;A;C005;310347;870425
+738;48084807;Bernardino;José;38;Femenino;SE36 8WH;África;Malawi;A;C0017;1351527;542075
+920;38749944;Lilia;Lobo-Haro;38;Femenino;7690 Glenridge Street;África;Rwanda;A;C006;584015;591778
+466;38611527;Marisela;Edu;38;Femenino;654 S. Jones Street;Asia;Indonesia;A;C0010;2306308;1121926
+512;36600457;Dalila;Chuy;38;Femenino;51 Manchester Road;Asia;Taiwan;A;C001;2843145;976419
+431;31273260;Luisina;Ramírez;38;Masculino;Tallahassee, FL 32308;Centroamérica y Caribe;Jamaica;A;C0011;1570499;914087
+436;30900962;Juan;Reyes;38;Femenino;Miami, FL 33142;Europa;Slovakia;A;C006;2719631;1551519
+789;35256828;Espiridión;Moles;38;Masculino;9485 S. Pheasant Dr.;Europa;San Marino;A;C006;1481834;71271
+657;40272909;Marcela;Nevado;38;Masculino;N69 4QH;Europa;Portugal;B;C0012;1243845;1746465
+14;35490521;Victoria;Morcillo;38;Femenino;7201 Mill Street;África;Kenya;C;C008;644007;115666
+562;32314652;Juana;Palomo;38;Femenino;London;África;Democratic Republic of the Congo;C;C003;844753;44668
+923;45588221;Luis;Fabregat;38;Masculino;7266 Shady Drive;África;Guinea-Bissau;C;C0010;575175;98042
+866;41228544;Arsenio;Feijoo;38;Femenino;328 E. Windfall Ave.;Australia y Oceanía;Federated States of Micronesia;C;C005;446180;256482
+410;43000190;Isaac;Olivera;38;Femenino;Altamonte Springs, FL 32714;Europa;Poland;C;C0013;832178;1748435
+336;32513903;Lola;Montesinos;38;Femenino;Miami, FL 33179;África;Qatar;D;C004;875127;274223
+880;33802132;Régulo;Isidro;38;Femenino;7880 Leeton Ridge Avenue;África;Equatorial Guinea;D;C007;616718;97761
+699;45824080;Desiderio;Falcó;38;Masculino;WC28 1FM;Asia;Sri Lanka;D;C0017;590358;496678
+697;49996302;Casemiro;Lamas;38;Masculino;London;Centroamérica y Caribe;Dominica;D;C008;374162;78334
+239;36350957;Elena;Ferreras;38;Masculino;Apohaqui, NB E5P 9G5;África;Namibia;E;C0018;343177;531058
+381;39280773;Yago;Exposito;38;Masculino;Miami, FL 33177;Centroamérica y Caribe;Guatemala;E;C000;1082081;307166
+231;49738118;Erasmo;Alvarado-Rocamora;38;Masculino;Bouctouche, NB E4S 8M3;Europa;Kosovo;E;C0019;745034;488270
+524;48533905;Felicidad;Ojeda;38;Femenino;953 School Lane;Europa;Estonia;E;C005;1458256;747480
+625;30409578;Rufina;Anguita-Sancho;38;Masculino;London;Europa;Greece;E;C005;2037547;597786
+693;40597962;Pascuala;Palacio;39;Masculino;EC74 0XB;África;Mauritania;A;C0015;468565;94441
+50;40386431;Adelardo;Violeta;39;Femenino;94 The Avenue;Asia;Bangladesh;A;C0018;900275;1128883
+849;38542233;Nazaret;Simó;39;Masculino;490 Beacon St.;Centroamérica y Caribe;Panama;A;C004;687547;664865
+301;47933747;Amancio;Córdoba;39;Masculino;Napanee, ON K7R 6V1;Europa;Albania;A;C005;3957945;1347321
+344;47451087;Soledad;Noguera;39;Femenino;West Palm Beach, FL 33415;África;Namibia;B;C006;788567;531799
+811;46825573;África;Becerra;39;Masculino;71 Cambridge Lane;África;Cape Verde;B;C0012;1023164;193689
+400;33358139;Liliana;Rozas;39;Femenino;Pompano Beach, FL 33068;Asia;Philippines;B;C003;2291880;572735
+72;45665077;Febe;Mármol;39;Femenino;SA65 3HD;Australia y Oceanía;Australia;B;C004;2369214;132873
+537;49750846;Xiomara;Garmendia;39;Masculino;EC01 3ZX;Centroamérica y Caribe;Dominica;B;C005;967967;454550
+450;32149795;Jordana;Carlos;39;Femenino;Pensacola, FL 32506;Europa;Sweden;B;C0014;2923292;211286
+149;33573972;Rafa;Pujol-Yáñez;39;Masculino;38 Johnson St.;Norteamérica;United States of America;B;C0010;3333848;775420
+52;49924624;Ovidio;Criado;39;Femenino;STOCKPORT;África;South Sudan;C;C0013;297842;454330
+443;46357971;Valentina;Jordán;39;Masculino;Hialeah, FL 33012;África;Republic of the Congo;C;C0020;293992;113984
+543;31497746;Lucila;Leon;39;Masculino;W09 2TG;Asia;Japan;C;C0011;1398705;697000
+392;39425464;Mamen;Flores;39;Femenino;Miami, FL 33193;África;Qatar;D;C007;851923;231184
+828;31395661;Paola;Francisco;39;Femenino;534 Clinton Street;Asia;Philippines;D;C0020;826582;937915
+37;32115562;Mireia;Frías;39;Masculino;257 Pheasant Drive;África;Iraq;E;C0012;284181;268888
+61;49823355;María;Rocha;39;Masculino;LLANDRINDOD WELLS;África;Qatar;E;C0015;376850;372395
+684;35472932;Ariel;Sans;39;Femenino;SE29 0XB;África;Eritrea;E;C007;642664;451303
+302;47334937;César;Jiménez-Galvez;39;Femenino;Woodstock, NB E7M 8P6;Asia;Laos;E;C0019;896202;634546
+783;30464877;Berta;Montero;39;Masculino;36 NW. Pierce St.;Asia;Maldives;E;C002;882746;131619
+433;35116092;Pedro;Tejedor;39;Masculino;Miami, FL 33126;Europa;France;E;C0010;1313458;584319
+26;36285248;Bienvenida;Rosales;40;Femenino;221 Dogwood Dr.;África;Burundi;A;C0010;497105;838188
+252;49581376;Juan;Arroyo;40;Femenino;Ottawa, ON K1G 0J7;África;Kuwait;A;C0020;954020;16357
+705;36688585;Blanca;Egea;40;Masculino;SW25 9DQ;Asia;Sri Lanka;A;C0020;2607153;1053225
+220;40430326;Beatriz;Corbacho;40;Femenino;Lockport, MB R1B 5H9;Europa;Malta;A;C004;2420007;2286757
+822;48857436;Florinda;Peinado;40;Femenino;741 Ann Ave.;Europa;Ukraine;A;C0012;1975274;632088
+25;34816428;Abel;Salas;40;Masculino;8388 Pheasant Street;África;Mali;B;C005;806324;285217
+485;35435235;Dominga;Colom;40;Masculino;54 Kingsway;África;Azerbaijan;B;C002;695943;877198
+894;40398559;Aurelio;Lozano;40;Femenino;309 South Hill Field St.;Asia;Cambodia;B;C0019;539748;1046146
+770;30454284;Loreto;Miguel;40;Femenino;89 West Lakeview Dr.;Europa;Montenegro;B;C0015;1321752;207645
+633;43042840;Prudencio;Borrell-Armas;40;Masculino;SW19 4ZN;Australia y Oceanía;Tonga;C;C0018;473517;664114
+140;44538938;Susanita;Rosell;40;Femenino;190 Sierra St.;Europa;Poland;C;C005;1241119;121030
+893;30424752;Urbano;Vallejo-Coll;40;Masculino;6 Newport Court;África;Angola;D;C0013;271425;317763
+398;35297487;Gloria;Sáenz;40;Femenino;Sarasota, FL 34231;Centroamérica y Caribe;Guatemala;D;C003;1427089;568943
+383;33970266;Jose;Pellicer;40;Masculino;Port Saint Lucie, FL 34952;Europa;Liechtenstein;D;C0016;1191574;926074
+823;34543811;Calixta;Mas;40;Masculino;23 Kent St.;África;Djibouti;E;C0012;681802;460401
+535;34198009;Lisandro;Gonzalez;40;Masculino;London;Asia;Nepal;E;C0020;468701;752145
+868;34845080;Apolonia;Acero;40;Femenino;120 Whitemarsh St.;Asia;Myanmar;E;C005;573682;638735
+393;40403506;Ambrosio;Galán;40;Masculino;Tampa, FL 33615;Australia y Oceanía;Palau;E;C000;457719;196220
+713;32949059;Santiago;Fiol;40;Masculino;575 Park Avenue;Centroamérica y Caribe;Saint Vincent and the Grenadines;E;C0015;1082742;352877
+268;43505578;Estela;Leticia;40;Femenino;Okotoks, AB T1S 0P8;Europa;Spain;E;C0014;1510062;132020
+298;43800866;Nadia;Cintia;40;Femenino;Îles-Laval, QC H7Y 1X2;Europa;Romania;E;C0014;1894093;1303357
+602;31998670;Anita;Saura;41;Femenino;319 The Grove;África;Cameroon;A;C002;1031597;1125043
+695;38765985;Serafina;Arana;41;Masculino;44 Grove Road;África;Liberia;A;C0011;1235744;870263
+815;31740187;Pascual;Fonseca;41;Masculino;919 Princeton St.;África;Tanzania;A;C000;1164736;1161256
+291;40443669;Rosenda;Melero;41;Masculino;Eskasoni, NS B1W 1S9;Asia;Myanmar;A;C003;2939756;513828
+229;37694630;Valerio;Pedrosa;41;Masculino;Oromocto, NB E2V 6A5;África;Qatar;B;C005;255904;260965
+240;32295575;Iván;Querol;41;Femenino;Lloydminster, SK S9V 5V1;África;Egypt;B;C0014;816537;307786
+976;38611315;Aitana;Salvà;41;Femenino;8279 Main Street;África;Equatorial Guinea;B;C008;497247;892222
+32;47159304;Purificación;Uribe;41;Femenino;353 Canterbury Dr.;Asia;North Korea;B;C0014;2392883;532403
+995;49759237;Olivia;Mas;41;Masculino;324 Augusta St.;Centroamérica y Caribe;Belize;B;C0019;1082523;638583
+321;39902923;Maristela;Pina;41;Masculino;Miami, FL 33161;África;Benin;C;C0010;636092;126528
+824;48764298;Marisela;Martorell;41;Femenino;4 Fairground Avenue;Centroamérica y Caribe;Honduras;C;C0016;1565029;128956
+961;46724105;Norberto;Moles;41;Masculino;7788 S. Princeton Court;Centroamérica y Caribe;Saint Vincent and the Grenadines;C;C0012;407419;350392
+418;33772988;Pacífica;Solera;41;Femenino;Jacksonville, FL 32224;Europa;United Kingdom;D;C0020;2759496;1806552
+721;30394968;Clotilde;Ugarte;41;Masculino;London;Europa;Poland;D;C0012;1752270;1050218
+665;38958112;Anselma;Ropero;41;Masculino;288 Broadway;Centroamérica y Caribe;Saint Vincent and the Grenadines;E;C0017;966796;689578
+143;33536531;Carmina;Rius;41;Masculino;5 West Henry Smith Street;Europa;United Kingdom;E;C0017;1701247;482699
+826;33587259;Ana;Llanos;41;Femenino;9618 Lower River St.;Europa;Portugal;E;C0010;1126921;863210
+579;32003213;Evita;Real;42;Masculino;WC80 6TR;África;Ethiopia;A;C0010;659260;685344
+764;49886528;Viviana;Izaguirre-Coll;42;Femenino;7071 Third St.;África;Ethiopia;A;C0017;291631;668041
+133;48859428;Maristela;Viana;42;Masculino;834 Yukon Lane;Europa;Switzerland;A;C0018;1050500;421900
+917;38991322;Cecilio;Beltrán;42;Masculino;9834 Pennington Ave.;Europa;Luxembourg;A;C006;4158836;318765
+120;47026361;Josué;Pinedo;42;Femenino;3 Sunset Street;África;Mauritania;B;C005;1223508;323393
+807;42862799;Felipe;Oliveras-Mármol;42;Masculino;242 East 8th Lane;África;The Gambia;B;C005;589463;78321
+36;34893582;Nadia;Ágata;42;Femenino;840 Oak Meadow Ave.;Asia;Indonesia;B;C0014;1576070;1196770
+763;40623267;Concepción;Tomé;42;Masculino;847 S. Manor St.;Asia;Taiwan;B;C0017;749150;428130
+54;36425158;Adoración;Cabello;42;Femenino;WD65 4RB;Centroamérica y Caribe;Saint Kitts and Nevis ;B;C0020;655607;442857
+330;49966702;Gisela;Gil-Miralles;42;Femenino;Fort Lauderdale, FL 33322;Centroamérica y Caribe;Cuba;B;C000;1538953;12327
+875;36293690;Otilia;Celia;42;Masculino;9589 Thorne Ave.;Centroamérica y Caribe;Antigua and Barbuda ;B;C0016;1526193;695331
+454;30058174;Pío;Roca-Soler;42;Femenino;2 West Vine St.;Europa;Andorra;B;C004;3748979;1026147
+199;44185869;Adalberto;Rafael;42;Masculino;Union City, CA 94587;África;Botswana;C;C0012;627235;107419
+322;43473542;Manuelita;Antonio;42;Femenino;Bradenton, FL 34205;África;Egypt;C;C0017;666777;878019
+481;47250437;Apolinar;Clemente;42;Masculino;London;África;Lebanon;C;C0016;941724;649447
+744;44198613;Zaira;Sedano;42;Femenino;NW01 6ER;África;Togo;C;C001;814803;558800
+694;46388303;Vicente;Pla;42;Femenino;London;Asia;Maldives;C;C008;1994683;1051757
+17;34726455;Trini;Arregui;42;Masculino;9481 S. Chestnut St.;Australia y Oceanía;Federated States of Micronesia;C;C008;591055;1106259
+272;31693676;Nilda;Caridad;42;Femenino;Hampton, NB E5N 2B1;Europa;Malta;C;C0015;2161129;1600247
+669;35517871;Pepita;Guardiola;42;Masculino;W62 7UD;Europa;Poland;C;C002;3324534;265056
+688;46357322;Jose;Fonseca-Granados;42;Femenino;London;Europa;Luxembourg;C;C0014;1425966;410728
+692;36280507;Fabián;Sierra;42;Femenino;5 Kingsway;Europa;Serbia;C;C0016;2006747;628819
+339;46568885;Desiderio;Gaya;42;Masculino;Lakeland, FL 33801;África;Zambia;D;C0020;272657;817185
+938;39156845;Ibán;Ferrero;42;Femenino;749 Honey Creek St.;África;Bahrain;D;C007;671616;980396
+327;31927388;Édgar;Riba;42;Masculino;Lake Worth, FL 33460;Asia;Vietnam;D;C005;586128;860439
+990;42695543;Severiano;Almansa;42;Femenino;7 Hill Field St.;Asia;South Korea;D;C009;954515;442786
+871;37479232;Belen;Garay;42;Masculino;748 East Brown St.;Centroamérica y Caribe;The Bahamas;D;C0012;835886;339549
+755;34102560;Vanesa;Valls;42;Masculino;28 Victoria Street;Europa;Estonia;D;C002;1072259;520809
+804;49893202;Manolo;Salvà;42;Femenino;81 Bohemia Lane;Europa;Czech Republic;D;C0017;1202562;113927
+147;46736266;Óscar;Solé;42;Masculino;3 Jefferson Dr.;África;Central African Republic;E;C0017;634376;61289
+159;32913360;Lucas;Anabel;42;Masculino;234 W. Riverside St.;África;Seychelles ;E;C0012;521524;200574
+168;33956740;Aurelia;Pino;42;Femenino;7889 Chapel Street;África;Burkina Faso;E;C002;242818;710631
+286;49086295;Ildefonso;Valdés;42;Femenino;La Plaine, QC J7M 5N3;África;Mauritania;E;C0015;561857;505650
+316;30907657;Cristóbal;Lerma;42;Femenino;Miami, FL 33135;Asia;North Korea;E;C0015;869685;829221
+6;44894548; Felipe;Urrutia;42;Femenino;8094 Albany Drive;Centroamérica y Caribe;Grenada;E;C005;1100153;560952
+329;38928886;Eladio;Valenciano;42;Masculino;Fort Lauderdale, FL 33309;Europa;Luxembourg;E;C005;1132876;341242
+341;43407546;Áurea;Atilio;43;Masculino;West Palm Beach, FL 33411;África;Egypt;A;C0012;1077619;1024197
+614;40161652;Rafael;Gimeno;43;Femenino;69 High Street;Asia;China;A;C009;1485138;1142713
+86;37375009;Ximena;Camino;43;Femenino;82 Windsor Road;Europa;Austria;A;C001;3577328;1586698
+200;47235000;Eustaquio;Pou;43;Femenino;Montebello, CA 90640;Europa;Portugal;A;C0013;4504324;990105
+203;32017335;Sandalio;Clarisa;43;Masculino;Long Beach, CA 90813;Europa;Russia;A;C0011;2562649;32036
+844;37625755;Juanita;Garmendia;43;Femenino;67 Bald Hill St.;Europa;Austria;A;C001;4421646;298487
+529;35653872;Luciano;Torrecilla;43;Masculino;London;África;Angola;B;C0018;400316;320241
+954;33102051;Matías;Escribano;43;Femenino;7133 E. West St.;Asia;Indonesia;B;C0014;1985004;1037266
+357;46316250;Seve;Solsona;43;Masculino;Dunedin, FL 34698;Centroamérica y Caribe;Belize;B;C007;1573734;495337
+47;46596086;Rosario;Morell-Oliver;43;Masculino;35 The Crescent;Centroamérica y Caribe;El Salvador;C;C0014;1720698;740143
+65;32930703;Abigaíl;Roig;43;Masculino;5 Kingsway;Centroamérica y Caribe;Jamaica;C;C0015;1157442;12123
+320;31764165;Vanesa;Gisbert;43;Femenino;Jacksonville, FL 32205;Centroamérica y Caribe;Honduras;C;C0018;1429703;614611
+315;37075458;Filomena;Aranda;43;Masculino;Saint Petersburg, FL 33710;Europa;Kosovo;C;C002;3321145;1084799
+885;33102550;Cayetano;Giménez;43;Masculino;744 Coffee Ave.;Norteamérica;Canada;C;C0014;3591036;2057057
+165;44834867;Evangelina;Antonio;43;Masculino;8718 Chapel Drive;África;Afghanistan;D;C008;573797;640813
+769;31913215;Estefanía;Villena-Saura;43;Masculino;47 Honey Creek Lane;África;Togo;D;C0011;324872;568443
+21;34168787;Jacinta;Martin;43;Masculino;9 Marconi Road;Asia;Sri Lanka;D;C001;891164;1089184
+41;43414596;Natalio;Alberto;43;Masculino;74 Broadway;Asia;Myanmar;D;C0017;1482663;268016
+513;34949501;Roldán;Albero;43;Masculino;NW17 8IR;Asia;Singapore;D;C0020;1757098;338733
+628;48969047;Edelmiro;Sofía;43;Femenino;London;Asia;Vietnam;D;C0016;1287107;681616
+94;48868272;Asunción;Tomé;43;Femenino;TORQUAY;África;Cape Verde;E;C0018;471037;501879
+687;31339352;Tecla;Royo;43;Masculino;NW49 8JX;África;Oman;E;C009;411745;237199
+932;44775172;Encarnación;Anguita-Sancho;43;Femenino;859 Foxrun Ave.;África;Zimbabwe;E;C0016;230953;347848
+847;32184982;Candela;Olmedo;43;Masculino;501 Foster Ave.;Australia y Oceanía;Samoa ;E;C0012;1186138;349076
+472;38151091;Nicodemo;Riquelme;43;Femenino;767 North Miller St.;Europa;Latvia;E;C0010;1156660;1024587
+939;32806388;Rufino;Nevado;43;Masculino;401 Arcadia St.;Europa;Serbia;E;C004;1364912;578269
+68;38552760;Marisela;Torre;44;Femenino;3 Church Street;África;Angola;A;C0018;1312917;924749
+649;47649790;Pastor;Trillo;44;Masculino;London;África;Lesotho;A;C008;1032159;297451
+706;39717634;Concepción;Sanmiguel;44;Femenino;London;Australia y Oceanía;East Timor;A;C004;2563615;811380
+540;48220945;Patricia;Olmedo;44;Femenino;NW45 6ST;Centroamérica y Caribe;Saint Kitts and Nevis ;A;C0020;2238547;574725
+599;46868749;Gregorio;Cal;44;Masculino;7 Stanley Road;Europa;Ireland;A;C0018;4330828;490859
+664;32573946;Urbano;Apolinar;44;Femenino;London;África;Morocco;B;C0011;960325;1057374
+925;31559060;Catalina;Pedro;44;Masculino;254 Kingston Street;Centroamérica y Caribe;Haiti;B;C006;1801092;716263
+405;43451380;Roberta;Lucas;44;Masculino;Middleburg, FL 32068;África;Egypt;C;C0020;783069;245876
+835;43861165;Jorge;Bernat;44;Masculino;353 Sherman St.;África;Iran;C;C002;1125183;712896
+913;49972757;Pascual;Luis;44;Masculino;4 Bank Dr.;África;Mauritius ;C;C0017;302309;257531
+308;35510677;Sandalio;Ibañez;44;Femenino;Grimsby, ON L3M 5X9;Europa;Hungary;C;C0016;3448812;236122
+590;40215162;Áurea;Sáenz;44;Femenino;44 Manor Road;Europa;Hungary;C;C008;3079065;1039323
+15;44948684;Nidia;Posada;44;Masculino;59 Ridgewood Ave.;África;Azerbaijan;D;C0013;556867;324985
+382;32662143;Antonio;Arranz-Muro;44;Femenino;Gainesville, FL 32608;África;Libya;D;C0019;877330;272758
+546;48809981;José;Conesa;44;Femenino;SE57 3KJ;Asia;Kazakhstan;D;C009;926288;315717
+219;30677318;Alberto;Villalonga;44;Masculino;Essex, ON N0R 2G6;Australia y Oceanía;Kiribati;D;C0018;1080508;1049434
+260;45369295;Ema;Arévalo;44;Femenino;Enfield, NS B2T 5S6;Europa;Serbia;D;C0014;984049;182480
+48;48226033;Encarnacion;Peñas;44;Femenino;SE42 3UM;África;Republic of the Congo;E;C0010;867418;211855
+132;49319082;Porfirio;Guerrero;44;Femenino;373 Brickyard Avenue;África;Lebanon;E;C007;225455;9075
+222;30209310;Teófilo;Canet;44;Femenino;Petit-Rocher, NB E8J 4K5;África;Comoros;E;C0015;405690;293953
+139;43343413;Glauco;Herranz;45;Masculino;8518 Hilldale Lane;África;Ghana;A;C0010;1041002;494449
+775;35894748;Isaac;Aparicio;45;Masculino;847 West Jockey Hollow Court;África;Turkey;A;C008;1352974;1108955
+90;44024213;Andrés;Higueras;45;Femenino;WR45 4AU;Centroamérica y Caribe;Trinidad and Tobago;A;C0013;2149681;770526
+673;32436467;Fernando;Ríos;45;Masculino;London;Centroamérica y Caribe;Haiti;A;C0020;1448054;137924
+247;39872113;Angélica;Luis;45;Masculino;Coldbrook, NS B4R 8S2;Australia y Oceanía;Samoa ;B;C0020;2035671;224224
+620;39794148;Manu;Caballero;45;Femenino;84 Church Lane;Europa;Armenia;B;C002;803141;386957
+820;38933327;Cristian;Albero;45;Femenino;373 Bear Hill St.;Europa;Georgia;B;C002;965688;1987633
+414;39381997;Graciana;Tolosa;45;Femenino;Miami, FL 33155;África;Lebanon;C;C009;750076;20384
+495;47479157;Anabel;Roig;45;Masculino;E03 6OB;África;Burkina Faso;C;C001;728108;446468
+397;37150969;Felix;Vallés;45;Masculino;Lakeland, FL 33813;África;Iran;D;C0019;865792;633131
+489;34181343;Marianela;Zoraida;45;Masculino;SE50 2RD;África;Kenya;D;C000;769958;755513
+895;46259872;Aroa;Diego;45;Masculino;7363 St Louis Street;África;Pakistan;D;C0010;750140;51339
+671;36128488;Edelmira;Mata;45;Masculino;42 Stanley Road;Australia y Oceanía;Kiribati;D;C0014;834789;868270
+549;40915886;Marco;Estrada-Querol;45;Masculino;EC64 1KL;Centroamérica y Caribe;Antigua and Barbuda ;D;C008;319642;876290
+846;41373921;Belén;Carbonell;45;Femenino;9 Lake St.;Centroamérica y Caribe;Dominica;D;C001;1161536;497188
+95;39502563;Jesús;Sacristán;45;Masculino;80 Chester Road;Europa;Italy;D;C000;1336344;1473768
+328;41155176;Luna;Giralt;45;Femenino;Lake Wales, FL 33853;África;Syria;E;C0018;691266;574262
+351;43045746;Darío;Corominas;45;Masculino;Miami, FL 33162;África;Botswana;E;C000;645296;598215
+396;46236606;Leire;García;45;Femenino;Pensacola, FL 32503;África;Liberia;E;C006;192974;561812
+788;45171530;Hilda;Clemente;45;Femenino;940 Riverside Court;África;Somalia;E;C001;409549;243112
+851;46070206;Lola;Ballesteros-Francisco;45;Masculino;8438 Joy Ridge Drive;África;Swaziland;E;C0020;482659;344422
+114;31778448;Nicolasa;Barral;45;Femenino;HD3 3KR;Asia;Thailand;E;C0010;306702;217361
+187;37239130;Ciro;Roura;45;Masculino;Tracy, CA 95376;Europa;Cyprus;E;C001;798645;338391
+378;47307066;Camila;Barragán;45;Femenino;Daytona Beach, FL 32119;Europa;Monaco;E;C0016;1443620;208222
+577;33865424;Carmelita;Arcos;46;Masculino;London;África;Comoros;A;C004;1634371;1162745
+803;35010760;José;Leal;46;Masculino;91 Annadale Road;África;Cameroon;A;C008;505046;1440457
+359;34940614;Abril;Casanova;46;Masculino;Lake Worth, FL 33467;Australia y Oceanía;Australia;A;C006;1195360;1032070
+708;41337060;Luisina;Lastra;46;Femenino;NW19 5DQ;Australia y Oceanía;Australia;A;C002;2334613;1565663
+361;44423160;Nando;Tur;46;Masculino;Orlando, FL 32818;Centroamérica y Caribe;Antigua and Barbuda ;A;C0018;2175569;163852
+463;42598964;Regina;Miguel;46;Masculino;265 Mill Pond Dr.;Europa;Ukraine;A;C0020;1572329;155000
+571;48668052;Candelas;Almansa-Bárcena;46;Masculino;London;Europa;Austria;A;C0015;4757244;1473555
+937;34903481;Eloísa;Casanovas-Riba;46;Masculino;618 North Park Drive;Norteamérica;Greenland;A;C0012;3233790;1631152
+150;36075146;Aura;Benito;46;Femenino;7652 West Wakehurst Drive;África;Sudan;B;C0016;597710;309693
+228;32707282;Isaac;Esteve;46;Femenino;Delhi, ON N4B 2V1;África;United Arab Emirates;B;C007;983341;926097
+827;42314465;Rolando;Gertrudis;46;Masculino;50 New Rd.;África;Iraq;B;C001;1120667;420130
+34;36310961;Evangelina;Escrivá;46;Femenino;810 West Mill St.;Europa;Norway;B;C004;2927904;561175
+921;44681197;Adriana;Gimeno;46;Masculino;9105 E. Bayberry Avenue;Norteamérica;Mexico;B;C0017;2011771;1035759
+29;49229500;Berto;Sabina;46;Masculino;323 1st St.;Europa;Norway;C;C009;3357457;1012421
+635;42804184;Ciro;Mamen;46;Masculino;76 The Grove;África;Egypt;D;C0020;469039;659828
+719;34310922;Elvira;Mascaró-Borrell;46;Masculino;437 Queensway;África;Somalia;D;C000;493442;443447
+307;39861739;Vicente;Leiva;46;Masculino;Labrador City, LB A2V 8L0;Asia;Kazakhstan;D;C0017;1467422;330925
+176;37453274;Jonatan;Elorza;46;Femenino;970 Myers Street;Australia y Oceanía;New Zealand;D;C0015;942067;59739
+980;40465409;Evangelina;Plana;46;Femenino;634 Rockaway St.;Europa;Macedonia;D;C007;1527010;352916
+156;36653040;Luis;Cases;46;Femenino;441 Court Dr.;África;Bahrain;E;C0013;174512;677833
+750;48659540;Hernando;Aguiló;46;Femenino;SE07 3LY;África;Swaziland;E;C0012;270304;855902
+271;46221861;Josefina;Baró;46;Masculino;Cochrane, AB T4C 6R2;Asia;Turkmenistan;E;C006;1162841;782795
+975;41978822;Pepito;Leal;46;Masculino;1 Plymouth St.;Australia y Oceanía;Palau;E;C001;920456;452611
+413;40754322;Calisto;Ureña;46;Masculino;Tampa, FL 33610;Europa;Bosnia and Herzegovina;E;C0011;1100626;295499
+232;41516630;Quirino;Navas;47;Femenino;Caledon, ON L7C 9T6;Asia;Bhutan;A;C0018;1168955;18352
+259;49454721;Silvia;Larrañaga;47;Masculino;Amqui, QC G5J 8E3;Asia;Tajikistan;A;C002;746014;726317
+612;34901487;Salomé;Pont;47;Femenino;SW28 3JH;Europa;Lithuania;A;C0013;2440703;1594327
+840;43391353;Ruperta;Catalán;47;Femenino;815 Victoria Ave.;África;Swaziland;B;C003;536803;267645
+332;42925322;Rosario;Iborra;47;Femenino;Boca Raton, FL 33428;Asia;Taiwan;B;C0011;633086;1420712
+79;37818662;Elvira;Merino;47;Masculino;SHEFFIELD;Europa;Bosnia and Herzegovina;B;C000;2720930;1051265
+411;35726450;Asdrubal;Leiva;47;Masculino;Orlando, FL 32825;África;Saudi Arabia;C;C0013;684324;258012
+592;48569870;Telmo;Chacón;47;Femenino;London;Asia;Mongolia;C;C000;1906241;18105
+618;45080580;Amado;Pedro;47;Femenino;NW29 1SG;Asia;Indonesia;C;C0014;881257;1160705
+318;34045413;Mayte;Mendizábal-Tejera;47;Femenino;Fort Lauderdale, FL 33312;Europa;Switzerland;C;C001;3637264;95326
+432;30747135;Eusebia;Tovar;47;Femenino;Sarasota, FL 34232;África;Israel;D;C000;898211;570086
+877;32140986;Chuy;Rodrigo;47;Masculino;46 Victoria Court;Norteamérica;Greenland;D;C0014;977761;62140
+448;47013246;Jose;Palau;47;Femenino;Kissimmee, FL 34741;África;Swaziland;E;C009;680675;412781
+640;42129228;Fátima;Pastora;47;Femenino;London;África;The Gambia;E;C001;546812;304480
+668;43623492;Ágata;Larrea;47;Femenino;13 Victoria Road;Australia y Oceanía;Palau;E;C004;1152580;948555
+110;37924295;Ruben;Fonseca;47;Femenino;48 Manor Road;Centroamérica y Caribe;Saint Vincent and the Grenadines;E;C0014;644082;579275
+178;46223592;Isaura;Marquez;47;Femenino;San Diego, CA 92114;Europa;Bulgaria;E;C0020;1801366;248422
+541;34275607;Patricio;Landa;48;Masculino;London;África;The Gambia;A;C002;1012591;910653
+651;44573411;Margarita;Blázquez;48;Masculino;SW89 6BP;África;Iraq;A;C0020;954233;1362967
+863;40216953;Magdalena;Vaquero;48;Masculino;8788 Birchpond Circle;África;Somalia;A;C0020;1068486;607239
+749;47404602;Demetrio;Esparza;48;Masculino;5 Church Road;Australia y Oceanía;Fiji;A;C002;738940;1398580
+922;36699663;Pepita;Pinedo;48;Femenino;8489 Colonial St.;Australia y Oceanía;Tuvalu;A;C0017;2704686;921135
+794;39039362;Marcela;Gisbert;48;Femenino;9163 South Oxford Ave.;Europa;Serbia;A;C0017;2018048;1185943
+838;40236085;Vicenta;Gargallo;48;Femenino;940 S. Thomas Ave.;Europa;Monaco;A;C0018;2772500;524724
+906;37337648;José;Cal;48;Femenino;31 Studebaker St.;Europa;Switzerland;A;C004;3053984;356842
+16;48127597;Teófila;Claudia;48;Femenino;270 West Green Lake St.;África;Mozambique;B;C0019;615550;420679
+468;30768099;Luciana;Aparicio;48;Femenino;607 Cherry Hill Street;África;Israel;B;C006;1028820;443959
+469;40449081;Samanta;Rodríguez;48;Masculino;732 Prince Lane;África;Qatar;B;C0017;637571;467796
+258;48290059;Malena;Gaya;48;Femenino;Pitt Meadows, BC V3Y 0T2;Asia;Nepal;B;C006;2586359;561357
+385;33134819;Cruz;Antón;48;Masculino;Tallahassee, FL 32304;Asia;Mongolia;B;C002;644713;650592
+981;45875523;Celia;Rodriguez;48;Masculino;957 South Arcadia Street;Australia y Oceanía;Samoa ;B;C0019;1977329;344240
+102;40062362;Julio;Sans;48;Femenino;HU74 4ER;Europa;Latvia;B;C0013;3813690;2003186
+795;32216041;Rosalva;Castell;48;Masculino;8478 West St.;Europa;Ukraine;B;C003;1341054;1802668
+66;44603486;África;Carrasco-Belda;48;Femenino;WA48 9PQ;África;Syria;C;C003;442534;706027
+261;34311600;Eva;Juan;48;Masculino;St. Martins, NB E5R 1J6;África;Angola;C;C006;280015;185623
+449;32454441;Ruben;Alcázar;48;Masculino;Sanford, FL 32771;Centroamérica y Caribe;Barbados;C;C0017;1084720;317014
+487;35427381;Juana;Gisbert;48;Masculino;London;África;Chad;D;C0014;581148;685543
+617;39708242;Tecla;Tamayo-Carpio;48;Masculino;41 Alexander Road;África;Turkey;D;C005;751552;1064376
+63;32188863;Adalberto;Verdú;48;Masculino;KA97 3AD;Asia;Kazakhstan;D;C0018;664735;572207
+510;41356803;Nidia;Florencio;48;Femenino;W85 2FV;África;Lesotho;E;C009;178334;772322
+348;39633483;Irene;Macario;48;Femenino;Panama City, FL 32404;Asia;Tajikistan;E;C008;1175293;775622
+736;43546370;Pepita;Galván;48;Femenino;London;Asia;Indonesia;E;C000;464579;687289
+908;41901993;Calixto;Manuel;48;Femenino;2 Ridgeview Dr.;Europa;Romania;E;C0016;1116400;336536
+474;47017926;Dorotea;Ballester;49;Femenino;17 South Court;África;Mali;A;C0019;544714;1057645
+527;30102029;Leocadio;Machado;49;Masculino;481 Park Road;Asia;Singapore;A;C009;1354513;895220
+578;40823491;Bernarda;Giménez;49;Femenino;3 St. John’s Road;Asia;Myanmar;A;C0018;2768688;453111
+613;35152182;Nazaret;Lobo-Haro;49;Masculino;London;Asia;Bangladesh;A;C0015;2658958;51442
+84;45061541;Nidia;Dominguez;49;Femenino;BB91 5XM;Europa;Ireland;A;C0019;1182367;581040
+533;34161999;Jerónimo;Catalán;49;Masculino;136 Kingsway;Europa;Georgia;A;C008;2903060;1723419
+860;49332343;Patricio;Cantón;49;Femenino;510 West Homewood Ave.;Europa;Macedonia;A;C006;4567652;1189183
+955;41988008;Benigno;Montero;49;Masculino;26 Sycamore Street;Europa;Sweden;A;C003;2474170;967121
+64;36322714;Rosalinda;Lobato-Mena;49;Femenino;ROCHESTER;África;Namibia;B;C0019;1174541;783549
+172;34630547;Macarena;González;49;Femenino;801 SW. Prairie St.;África;Mauritius ;B;C0018;1378900;1032442
+277;39215660;Damián;Ignacio;49;Masculino;Acton, ON L7J 3T8;África;Saudi Arabia;B;C0018;1148442;643806
+572;46007186;Lucio;Cortina;49;Femenino;45 The Crescent;Asia;Malaysia;B;C0013;2624928;967045
+956;32526055;Ariel;Aller;49;Femenino;746 Marsh Ave.;Australia y Oceanía;Tonga;B;C004;2578250;1170814
+486;37877321;Norberto;González;49;Femenino;N75 6DC;Europa;Slovenia;C;C004;1372614;308099
+609;32680254;Azucena;María;49;Masculino;WC50 3YX;Europa;Luxembourg;C;C001;3009960;802357
+842;49490451;Leopoldo;Gonzalez;49;Femenino;7328 Marsh St.;Europa;Slovakia;C;C002;859380;575585
+3;47790587; Jose;Soto;49;Masculino;9448 Fairfield St.;Australia y Oceanía;Marshall Islands;E;C0015;1262520;348620
+777;30767999;Angélica;Seco;49;Masculino;61 Bridle St.;Centroamérica y Caribe;Costa Rica;E;C000;804832;243421
+356;42057561;Maximiliano;Pablo;50;Femenino;Hollywood, FL 33021;África;Cote d'Ivoire;A;C0012;893694;589568
+632;40446373;Renata;Ferrera;50;Femenino;9 Main Road;África;Namibia;A;C0018;1470613;786912
+953;43163494;Héctor;Ballester;50;Masculino;8478 Vernon Lane;Centroamérica y Caribe;El Salvador;A;C004;1022173;94871
+1;43986759; Juan;Perez;50;Masculino;7943 S. Fifth Street;Europa;United Kingdom;A;C0020;2743433;1869386
+974;43355308;Florencio;Roig;50;Femenino;55 Lake Forest Drive;Centroamérica y Caribe;Belize;B;C005;903794;303395
+352;47954171;Eli;Olmedo;50;Femenino;Miami, FL 33175;Europa;Austria;B;C006;842322;1804664
+962;48173775;Clementina;Alemany;50;Femenino;7707 Beech Ave.;Europa;France;B;C0020;3705601;633898
+11;40187977;Mauricio;Fonseca;50;Masculino;45 Heritage Ave.;Norteamérica;Greenland;B;C0016;2611501;142596
+12;47287622;Isaura;Jaume;50;Femenino;9334 Hillside Street;África;Angola;C;C0013;739030;76155
+46;42270370;Eutimio;Figuerola;50;Femenino;DUNDEE;Australia y Oceanía;Papua New Guinea;C;C002;2456606;997534
+809;37004955;Joan;Rodriguez;50;Masculino;8497 3rd St.;Europa;Monaco;C;C0020;1962344;1507996
+134;30864784;Leticia;Guzman;50;Femenino;8324 South St.;África;Kuwait;D;C009;343892;329044
+369;38267758;Ángeles;Ángeles;50;Masculino;Deltona, FL 32738;Asia;Turkmenistan;D;C003;432650;240042
+365;47417763;Isabel;Tormo;50;Masculino;Melbourne, FL 32935;Centroamérica y Caribe;Guatemala;D;C0015;415008;170542
+900;46791418;Sofía;Ros;50;Femenino;917 NW. Leatherwood Court;Centroamérica y Caribe;Honduras;D;C002;403225;534786
+223;38725641;Bruno;Manu;50;Masculino;Farnham, QC J2N 4J1;Europa;Liechtenstein;D;C009;1855519;943838
+483;40728182;Curro;Alemany;50;Masculino;NW31 7RM;Europa;Romania;D;C0018;2594713;443075
+177;48850092;Humberto;Burgos;50;Masculino;948 Railroad Avenue;África;Sierra Leone;E;C0020;255301;857916
+317;33946351;Maribel;Fuster;50;Masculino;New Port Richey, FL 34653;Asia;Bhutan;E;C0014;1330057;753718
+10;38993544;Matías;Bartolomé;50;Femenino;8728 Boston Street;Australia y Oceanía;Australia;E;C008;457708;252392
+784;30406864;Carmen;Aller;50;Femenino;832 Lake Forest Rd.;Centroamérica y Caribe;Nicaragua;E;C000;1004755;681122
+778;38773604;José;Vega;50;Femenino;9555 Purple Finch Dr.;Norteamérica;Canada;E;C003;1348976;1749719
+737;33746801;Alba;Téllez;51;Masculino;73 Chester Road;África;South Africa;A;C008;635431;183260
+364;49044524;Ignacio;Cepeda;51;Femenino;Valrico, FL 33594;Asia;Malaysia;A;C004;2836771;1332159
+553;36149151;Nydia;Cantón;51;Masculino;London;Australia y Oceanía;Tonga;A;C001;1795712;559985
+829;38371197;Lupita;Donaire;51;Masculino;56 Marsh Drive;Centroamérica y Caribe;Barbados;A;C004;1368808;363292
+724;42503250;Nerea;Téllez;51;Femenino;London;Europa;Bosnia and Herzegovina;A;C003;4624808;176924
+608;49790764;Clemente;Pons;51;Femenino;71 Stanley Road;África;Lebanon;B;C005;880236;748894
+299;38983701;Máximo;Duarte;51;Masculino;Grand Falls, LB A2A 2C6;Asia;China;B;C0016;2674010;380253
+587;45543214;Jerónimo;Lozano;51;Masculino;5 George Street;Asia;Indonesia;C;C0013;2017853;510466
+898;36203653;Milagros;Olmedo;51;Femenino;858 Primrose Lane;Centroamérica y Caribe;Saint Vincent and the Grenadines;C;C005;2006855;181988
+685;48876184;Claudia;Bou;51;Masculino;London;África;Oman;D;C0010;748265;249053
+211;32795677;Juan;Carro;51;Masculino;Santa Ana, CA 92704;Asia;Japan;D;C0010;1886249;84014
+964;33073796;Ester;Colom;51;Femenino;954 S. Nichols Rd.;Australia y Oceanía;Samoa ;D;C001;786588;335483
+768;42852314;Gastón;Elías;51;Femenino;770 Carson St.;Centroamérica y Caribe;Trinidad and Tobago;D;C006;449172;499049
+575;32704322;Héctor;Tur;51;Masculino;28 Windsor Road;Europa;Greece;D;C0020;1181143;1044356
+148;45931407;Angelino;Izquierdo;51;Femenino;79 Rocky River Ave.;África;Cape Verde;E;C007;318428;395831
+427;49310124;Aristides;Morera;51;Masculino;Miami Beach, FL 33141;África;Mauritius ;E;C006;747691;720849
+903;48969908;Pío;Oliveras;51;Masculino;972 Stillwater St.;África;Senegal;E;C0014;283141;594538
+101;38994458;Delfina;Arellano-Murcia;51;Masculino;28 London Road;Asia;Uzbekistan;E;C000;603846;587440
+192;49872692;Maximiliano;Neira;51;Femenino;Sylmar, CA 91342;Centroamérica y Caribe;El Salvador;E;C0014;772978;241244
+751;38088591;Isabela;Cañete;51;Masculino;London;Europa;Vatican City;E;C006;1561310;1494689
+854;30511447;Isa;Isern;51;Femenino;8615 W. Pine Lane;Norteamérica;Greenland;E;C006;1248074;136802
+865;42275905;Martirio;Nicolau;52;Masculino;114 Carriage Lane;Centroamérica y Caribe;Cuba;A;C0013;1038398;1220632
+263;31825777;Dafne;Ortega;52;Masculino;Kings County, NS B0P 9R3;Europa;Iceland;A;C008;2357831;869253
+924;38561728;Angelina;Tamayo-Carpio;52;Femenino;493 Summer Avenue;Europa;Greece;A;C007;2150320;575088
+479;41767373;Aura;Hernando;52;Masculino;19 Victoria Street;África;Jordan;B;C006;310345;1057732
+615;45891652;Sergio;Pinedo;52;Masculino;N75 9BF;África;Equatorial Guinea;B;C007;365387;39995
+623;49645778;Itziar;Baquero-Cánovas;52;Masculino;319 Alexander Road;Australia y Oceanía;Samoa ;B;C0014;821725;564758
+217;33482799;Luisa;Murillo;52;Masculino;Donnacona, QC G3M 1C3;Europa;Sweden;B;C0015;1184087;1690772
+491;34642153;Patricia;España;52;Masculino;168 The Green;Europa;Bosnia and Herzegovina;B;C0014;1988442;1802438
+941;34281621;Lucho;Villena-Saura;52;Masculino;8842 Albany Dr.;Europa;Monaco;B;C003;2179901;1473176
+862;31472435;Aitana;Patiño;52;Femenino;52 Glenridge Street;Norteamérica;Mexico;B;C007;1167774;1817826
+943;42097675;Juan;Pla;52;Masculino;7542 Logan Ave.;África;Mauritius ;C;C003;559442;188322
+349;49824579;Yago;Gallego;52;Masculino;Hollywood, FL 33025;África;Iran;D;C0020;606840;457556
+377;34287784;Octavio;Guardia;52;Masculino;Miami, FL 33134;África;Pakistan;D;C0014;588439;757728
+440;41869698;Ovidio;Jover-Mendoza;52;Femenino;Hialeah, FL 33014;Centroamérica y Caribe;Guatemala;D;C0016;1128547;256608
+502;44162454;Andrés;Rodriguez;52;Femenino;London;Europa;Kosovo;D;C0012;2119714;1237050
+641;34459330;Gabriela;Manuel;52;Masculino;9535 Manchester Road;Europa;Ireland;D;C006;2220528;623151
+452;37075132;Jose;Llopis;52;Femenino;Suite 3;África;Sierra Leone;E;C0011;514049;435287
+583;49914842;Lalo;Escalona;52;Masculino;London;África;Niger;E;C0014;255247;890215
+979;49596560;Primitiva;Oliveras-Mármol;52;Masculino;24 Railroad Court;Asia;Bhutan;E;C0018;858860;668343
+584;49336625;Sabina;Barroso;52;Femenino;96 The Avenue;Centroamérica y Caribe;Barbados;E;C0018;1042303;211602
+188;46605206;Dora;Benítez;52;Femenino;Los Angeles, CA 90066;Europa;Luxembourg;E;C006;463174;1457928
+113;49939080;Daniela;Vargas;53;Masculino;33 York Road;África;Togo;A;C008;598396;272097
+730;43324169;Amor;Pavón;53;Femenino;London;África;Mozambique;A;C0016;987383;100329
+243;39634993;Úrsula;Diego;53;Masculino;Chestermere, AB T1X 8K6;Asia;Sri Lanka;A;C006;3176280;916705
+121;47094754;Encarnación;Reina;53;Masculino;611 Linda Rd.;Europa;Portugal;A;C006;4311434;1214357
+138;37020418;Pánfilo;Blanes;53;Femenino;7313 Bohemia Street;Europa;Latvia;A;C003;3885611;1147323
+836;32924226;Beatriz;Torrecilla;53;Femenino;764 New St.;Europa;Czech Republic;A;C008;1974410;719362
+888;46247529;Blanca;Estrella;53;Femenino;499 Second Dr.;Europa;Estonia;A;C0011;3895752;1014529
+940;30469881;Félix;Elías;53;Femenino;61 Aspen Street;África;Lebanon;B;C008;1358033;953073
+971;43989977;Juan;Mulet;53;Masculino;638 Jennings Street;África;Rwanda;B;C006;1185509;304620
+837;49601355;Vicenta;Ortega;53;Masculino;2 Delaware Lane;Australia y Oceanía;Nauru;B;C008;1188832;1019104
+234;41715758;Paloma;Sandoval;53;Femenino;Digby Neck, NS B0V 8H6;Norteamérica;Mexico;B;C0015;2213129;1789021
+28;42912404;Modesto;Pardo-Nuñez;53;Femenino;176 Henry Smith Ave.;África;Nigeria;C;C0018;938818;741559
+167;45991481;Javier;Pacheco;53;Masculino;277 Halifax Dr.;África;Oman;C;C0020;1336174;260669
+589;46639648;Manu;Luis;53;Masculino;London;África;Afghanistan;C;C0019;1314890;325138
+656;42295359;Pepita;Samper;53;Femenino;81 Manor Road;África;Lebanon;C;C007;1371437;390420
+967;34969328;Emiliano;Castell;53;Masculino;60 Thatcher Court;África;Syria;C;C008;1247911;548141
+375;31591711;Francisco;Ordóñez;53;Masculino;Boca Raton, FL 33433;Asia;Japan;C;C0011;2233498;979890
+457;44912627;Encarnación;Cuéllar;53;Masculino;8133 Sycamore Street;Centroamérica y Caribe;Costa Rica;C;C0010;1639453;137058
+170;48995391;Cornelio;Roma;53;Femenino;51 Coffee St.;África;Burkina Faso;D;C0013;1045726;198857
+136;43957537;Esteban;Paulino;53;Femenino;907 Inverness Dr.;África;Angola;E;C005;741735;550470
+582;45629084;Fausto;Quirós;54;Femenino;NW51 4UV;África;Eritrea;A;C008;793149;214091
+426;34659224;Federico;Samper;54;Femenino;Opa Locka, FL 33056;Europa;Switzerland;A;C0018;1968656;2001884
+595;44196818;Petrona;Alemany;54;Masculino;London;Europa;Liechtenstein;A;C001;3744451;1607801
+960;41110597;Fernanda;Clemente;54;Femenino;7952 Durham St.;Europa;Romania;A;C0012;2433418;2018572
+982;32287318;Olivia;Fabra;54;Femenino;750 Vernon Ave.;Europa;Austria;A;C0019;5443400;40423
+158;30316496;María;Estévez;54;Femenino;674 Van Dyke Drive;África;Botswana;B;C0015;1436455;386484
+707;46040156;Carolina;Solé;54;Masculino;9518 Mill Road;África;Niger;B;C0017;404716;837056
+645;48039182;Isaac;Teruel;54;Masculino;SE34 0ME;Centroamérica y Caribe;Nicaragua;B;C0020;1358259;501632
+839;34724668;Alejandra;Quero;54;Masculino;8459 Wagon Road;Europa;Vatican City;B;C0013;3173825;364735
+27;45105593;Patricio;Folch;54;Masculino;911 Charles St.;África;Libya;C;C0011;1276706;525811
+273;30543180;Gregorio;Benítez;54;Masculino;Grand Manan Island, NB E5G 6V4;África;Malawi;C;C004;295456;95395
+451;31653712;Brunilda;Salamanca;54;Masculino;Pompano Beach, FL 33071;África;Zambia;C;C0020;458604;1036309
+44;44881721;Toño;Carballo-Bayona;54;Femenino;674 High Street;Australia y Oceanía;Palau;C;C004;752639;917305
+362;39984109;Soraya;Jose;54;Femenino;Orlando, FL 32839;Europa;Poland;C;C0018;3732196;701011
+484;42274015;Julio;González;54;Femenino;London;Europa;Netherlands;C;C0013;963474;685493
+225;35504621;Isabela;Salcedo;54;Masculino;Saint-Raymond, QC G3L 7P7;Norteamérica;Greenland;C;C001;2582616;1142862
+142;40872020;Chus;Saldaña;54;Femenino;1 Highland Ave.;Asia;Vietnam;E;C004;1290659;418604
+621;35366895;Basilio;Calleja;54;Masculino;E61 2JK;Centroamérica y Caribe;Belize;E;C007;862113;54563
+966;47415270;Susanita;Gisbert;54;Femenino;9799 E. Pumpkin Hill Lane;Centroamérica y Caribe;Saint Vincent and the Grenadines;E;C0012;399099;594239
+105;41924805;Lilia;Serna;55;Masculino;DH29 2KQ;África;Senegal;A;C003;1609674;714209
+326;35237047;Rubén;Ramón;55;Femenino;Winter Haven, FL 33880;Asia;South Korea;A;C0018;1369501;1217698
+843;45565547;Haroldo;Roldán-Galván;55;Masculino;7379 Nut Swamp Dr.;Australia y Oceanía;Tuvalu;A;C003;733230;1345259
+91;33791248;Jordi;Cuadrado;55;Masculino;MANCHESTER;Asia;South Korea;B;C0012;3226825;691417
+461;37619292;Manuel;Elías;55;Masculino;60 Lower River St.;Asia;Philippines;B;C000;702610;628950
+9;36427593;Lucho;Sanmiguel;55;Masculino;86 Surrey St.;Centroamérica y Caribe;Grenada;B;C003;994952;300524
+686;35978709;Morena;Gabino;55;Femenino;75 The Drive;Centroamérica y Caribe;Cuba;B;C0015;799677;249328
+762;40365389;Manolo;Salom;55;Femenino;9453 South Pineknoll Drive;Europa;Albania;B;C0012;1391793;2094456
+832;43195423;Clemente;Susanita;55;Femenino;61 Fulton Street;África;Kuwait;C;C000;1023711;114959
+255;34443882;Dalila;Ferrera;55;Masculino;Windsor, LB A2B 0T8;Asia;Malaysia;C;C003;1445570;1112412
+818;30975380;Vicente;Almansa;55;Femenino;94 Beach St.;Centroamérica y Caribe;Cuba;C;C004;1431023;191108
+874;30552980;Cecilio;Pinilla;55;Femenino;279 Magnolia Avenue;Centroamérica y Caribe;Haiti;C;C003;2026004;673535
+292;43320452;Ariel;Sanz;55;Femenino;Parry Sound, ON P2A 5R6;Europa;Romania;C;C006;3718596;1262192
+720;37965146;Sosimo;Aznar;55;Femenino;NW87 0HE;Europa;Italy;C;C0018;2311351;49465
+892;31739355;Sandalio;Tomas;55;Femenino;8821 Rockville Lane;Europa;Switzerland;C;C007;3633130;1262234
+210;43323133;Vicente;Pinto;55;Femenino;San Jose, CA 95111;Norteamérica;United States of America;C;C003;4044256;2008352
+267;38095841;Loreto;Perelló-Losada;55;Masculino;Charny, QC G6X 9G6;África;Somalia;D;C0013;272822;498470
+756;33246665;Albina;Arteaga;55;Femenino;SW80 9JL;África;Swaziland;D;C0019;1083502;887100
+567;39008365;Loida;Pinilla;55;Masculino;W02 8UK;Asia;Singapore;D;C0013;1902880;498856
+743;31951717;Rafaela;López;55;Masculino;16 George Street;Asia;China;D;C0014;1584632;1096120
+607;36318421;Curro;Garrido;55;Masculino;London;Australia y Oceanía;New Zealand;D;C007;1662073;641596
+185;45036121;Emilia;Losada;55;Masculino;Tulare, CA 93274;Centroamérica y Caribe;The Bahamas;D;C0015;1106710;386392
+696;33389378;Benita;Casares;55;Femenino;W52 6WK;Europa;Greece;D;C0010;1882930;1396583
+384;41819047;Dulce;Pinedo;55;Femenino;Tallahassee, FL 32303;África;Democratic Republic of the Congo;E;C0018;423811;222358
+555;46971311;Adriana;Patiño;55;Masculino;NW58 7WR;África;Seychelles ;E;C003;554768;455056
+480;30998030;Sabas;Anguita;55;Femenino;NW48 5MP;Centroamérica y Caribe;Honduras;E;C002;1294560;178440
+264;35607842;Óscar;Laguna-Bas;55;Femenino;Fort Saskatchewan, AB T8L 4M9;Europa;Cyprus;E;C0013;1810743;184684
+879;41608870;Anacleto;Cortina;55;Masculino;922 West Leeton Ridge St.;Europa;Czech Republic;E;C0019;1601851;488356
+965;47145471;Jonatan;González;55;Masculino;584 Pumpkin Hill Dr.;Europa;Serbia;E;C0019;2596888;1287944
+226;49940559;Amaya;Cámara;56;Femenino;St. George, NB E5C 6A9;África;Chad;A;C0012;1286590;1102500
+284;48689729;Seve;Dalmau-Bolaños;56;Femenino;Bass River, NB E4T 4R0;África;Eritrea;A;C0017;1363975;394307
+870;45372426;José;Bravo-Cano;56;Femenino;8948 St Louis Ave.;África;Nigeria;A;C0015;588447;972368
+49;44569707;Magdalena;Ángeles;56;Masculino;DONCASTER;Australia y Oceanía;Vanuatu;A;C005;1902845;691967
+166;46366885;Florencia;Barberá;56;Femenino;9029 Bellevue Drive;África;The Gambia;B;C009;726299;872128
+689;40076530;Teresita;Miguel;56;Masculino;893 Church Lane;África;Namibia;B;C009;1519036;56736
+280;47554968;Isa;Ferrán;56;Femenino;Le Fjord, QC G0T 3E3;Asia;Uzbekistan;B;C009;1203682;42184
+859;33503717;Damián;Andreu;56;Masculino;9809 Gates Street;Asia;Taiwan;B;C002;1758030;763289
+637;39409696;Claudia;Solé-Palma;56;Masculino;London;Centroamérica y Caribe;Panama;B;C001;1175061;850558
+622;41929145;Emiliano;Ropero;56;Femenino;London;Europa;Finland;B;C005;4431780;2059214
+813;37251401;Joan;Laura;56;Masculino;9140 Carpenter St.;África;Chad;C;C005;1184837;99295
+304;34214866;Vito;Roldan;56;Femenino;Greely, ON K4P 4T2;Europa;Netherlands;C;C007;1393664;288678
+323;39458020;Borja;Belén;56;Masculino;Fort Myers, FL 33912;Europa;Cyprus;C;C009;3370903;148498
+196;41755397;Saturnino;Gallego;56;Femenino;San Pedro, CA 90731;África;Mauritania;D;C000;965171;694302
+521;40421207;Lupe;Francisco;56;Masculino;95 Highfield Road;África;Tunisia ;D;C001;385876;528757
+661;42324726;Felicia;Chaparro;56;Masculino;London;África;Liberia;D;C0011;754424;654797
+814;40945670;Cruz;Carpio;56;Femenino;538 Cross Street;África;Turkey;D;C0017;517534;551441
+347;35855728;Eladio;Manzano;56;Masculino;Key West, FL 33040;Asia;Malaysia;D;C0011;1765063;351008
+690;31723642;Sofía;Lucas;56;Femenino;SE91 4YS;Asia;India;D;C008;830193;279902
+666;44032530;Adrián;Julián;56;Femenino;N82 6DQ;África;Pakistan;E;C001;819175;226842
+459;49044947;Evaristo;Segarra;56;Masculino;8683 South Drive;Australia y Oceanía;Fiji;E;C009;892326;570718
+180;48259289;Reinaldo;Llabrés-Rebollo;56;Femenino;Los Angeles, CA 90001;Europa;Spain;E;C0018;2548969;205091
+935;47713711;María;Sofía;56;Masculino;85 Brewery Lane;Europa;Macedonia;E;C0013;2524939;590875
+910;37895725;Daniela;Carreras;56;Femenino;5 Circle Dr.;Norteamérica;United States of America;E;C007;951077;1181905
+53;32209558;Reyes;Asensio;57;Masculino;96 The Green;África;Mozambique;A;C0014;1692100;643393
+600;32988063;Miguel;Dávila;57;Femenino;EC36 4JR;África;Morocco;A;C000;688492;945594
+643;32397018;Mónica;Sans;57;Masculino;London;África;United Arab Emirates;A;C001;1034335;489072
+861;47898875;Antonio;Batalla;57;Masculino;9 Nut Swamp Road;Australia y Oceanía;Solomon Islands;A;C0015;1766593;409363
+93;47573795;Socorro;Agullo;57;Masculino;RG6 1SR;Europa;Albania;A;C0014;4953340;1777588
+904;45887425;Luis;Santiago;57;Femenino;86 Logan Dr.;Europa;Iceland;A;C0017;3222296;2377454
+278;48849145;Marcela;Jesús;57;Femenino;Lac-Megantic, QC G6B 4L9;África;Turkey;B;C0016;546735;866773
+453;32661822;Inés;Gilberto;57;Masculino;231 Marsh Lane;África;Sierra Leone;B;C0020;1097677;789108
+591;49169718;Modesta;Olmedo;57;Masculino;SW74 1UW;África;Gabon;B;C0012;668520;452363
+610;37744476;Nicolasa;Beltrán;57;Femenino;London;África;Togo;B;C007;1217926;702133
+928;43765310;Marianela;Calleja;57;Femenino;457 Orange Street;África;Tunisia ;B;C0018;1227906;41345
+248;41256238;Amalia;Ferrer;57;Femenino;Windsor, ON N8P 8C9;Australia y Oceanía;Marshall Islands;B;C0019;2967810;918431
+792;35474033;Darío;Colom;57;Femenino;91 SE. Pierce Ave.;Europa;Lithuania;B;C000;2638037;1908108
+131;34628478;Aurelia;Melisa;57;Masculino;8388 Water St.;África;Uganda;C;C007;387240;51364
+647;39137641;Paca;Agudo;57;Masculino;567 Albert Road;África;Zambia;C;C0013;410869;224008
+978;31359763;Herminio;Novoa;57;Femenino;508 Cypress St.;Asia;Bangladesh;C;C0011;765509;133188
+227;36379392;Gervasio;Paz;57;Masculino;Port Moody, BC V3H 3N3;Europa;Macedonia;C;C0010;1035149;941903
+423;32136289;Anselma;Ríos;57;Masculino;Jacksonville, FL 32246;Europa;Armenia;C;C0012;1113433;167808
+704;34999241;Reynaldo;Narváez;57;Femenino;220 Manchester Road;África;Iran;D;C0011;526868;965269
+137;40006057;Trinidad;Egea;57;Masculino;12 Cypress Avenue;Asia;Uzbekistan;D;C0015;1669311;16362
+779;49010043;María;Riquelme;57;Masculino;8473 South Lilac Court;Centroamérica y Caribe;Trinidad and Tobago;D;C0016;1237166;381894
+59;49969189;Leonardo;María;57;Masculino;26 North Road;Europa;Spain;D;C0019;2137668;799452
+257;35203651;Timoteo;Linares;57;Masculino;Duvernay-Est, QC H7A 4A9;Europa;Croatia;D;C001;825398;1773396
+428;45832493;Claudia;Saura;57;Femenino;Pompano Beach, FL 33065;Europa;Andorra;D;C007;3156324;80994
+56;38821871;Abel;Trillo;57;Femenino;30 Main Road;África;Rwanda;E;C0018;907642;788590
+532;36877628;Corona;Quero;57;Femenino;London;África;South Africa;E;C004;702722;778853
+78;48025049;Eustaquio;Asunción;57;Femenino;NR38 3VK;Australia y Oceanía;East Timor;E;C005;411921;242753
+244;48085811;Manuelita;Severino;57;Femenino;Leduc, AB T9E 6E1;Europa;Liechtenstein;E;C0015;760738;1228987
+238;37590609;Eva;Duilio;58;Femenino;La Sarre, QC J9Z 2V9;África;Kuwait;A;C007;1203014;1073688
+442;47087130;Nazaret;Gutierrez;58;Femenino;Pensacola, FL 32514;África;Tunisia ;A;C008;1271575;1095079
+709;36874701;Filomena;Jover;58;Masculino;London;África;Botswana;A;C007;1311317;356383
+887;30144909;Valeria;Peñas;58;Masculino;395 W. Coffee St.;África;Madagascar;A;C005;1035875;605546
+933;30653139;Fátima;Milla-Martorell;58;Masculino;6 Monroe Ave.;África;Lebanon;A;C007;1861069;1211730
+856;34360085;Ruth;Estrada-Querol;58;Femenino;8819 Oak Ave.;Centroamérica y Caribe;El Salvador;A;C0018;2135538;228715
+333;36493114;Gloria;Loreto;58;Masculino;Hallandale, FL 33009;Europa;Bosnia and Herzegovina;A;C000;3938008;1926074
+386;47719762;Fabio;Macias;58;Femenino;Casselberry, FL 32707;Europa;Bosnia and Herzegovina;A;C004;3452351;1010821
+324;49163339;Clotilde;Barroso-Coloma;58;Femenino;Tampa, FL 33624;África;Morocco;B;C001;359353;1040516
+518;34639828;Nerea;Ibañez;58;Femenino;21 Grange Road;Europa;San Marino;B;C001;4799610;1287053
+499;35331226;Nadia;Novoa;58;Masculino;London;África;Pakistan;C;C0011;792694;633283
+538;35401803;Santos;Herrero-Canet;58;Femenino;London;África;Oman;C;C0019;1356470;131737
+896;38857236;Calista;Luis;58;Femenino;8877 Selby Rd.;África;Malawi;C;C0014;355264;412650
+74;49128164;Imelda;Exposito;58;Femenino;9112 St. John’s Road;Asia;Thailand;C;C002;694490;119960
+425;34371645;Sandra;Pareja;58;Masculino;Jacksonville, FL 32211;Centroamérica y Caribe;Panama;C;C002;2030244;666167
+638;47039362;Brunilda;Beltrán;58;Femenino;5 Victoria Street;Centroamérica y Caribe;Haiti;C;C0015;1408296;657241
+182;46838010;Roberto;Perera;58;Femenino;Simi Valley, CA 93065;África;Namibia;D;C0014;1049567;312437
+890;42871489;Rufina;Escalona;58;Femenino;943 Holly Ave.;África;Republic of the Congo;D;C0017;296220;36102
+282;39547995;Odalys;Aroa;58;Femenino;Kimberley, BC V1A 5S2;Australia y Oceanía;Federated States of Micronesia;D;C0011;1987040;246648
+581;46594222;Carlota;Estrella;58;Masculino;22 Church Street;Centroamérica y Caribe;Saint Lucia;D;C0015;1371534;445318
+274;42217041;Edmundo;Carnero;58;Femenino;Petawawa, ON K8H 6P6;Europa;Czech Republic;E;C007;1762076;762161
+715;36140303;Ángeles;Luisa;58;Masculino;London;Europa;Italy;E;C0010;1066143;890688
+87;44984699;Eugenio;Vidal-Roma;59;Masculino;PH82 4OY;África;Sierra Leone;A;C0011;545629;655793
+429;43470640;Roque;Ibañez;59;Masculino;Miami, FL 33125;Asia;Bangladesh;A;C004;3106347;398336
+31;41425199;Anastasia;Aranda;59;Masculino;7813 Helen Ave.;Australia y Oceanía;Papua New Guinea;A;C0010;1629874;41630
+490;45292909;Azahar;Fuente;59;Femenino;London;Centroamérica y Caribe;Jamaica;A;C0010;625457;439489
+97;36334775;Susana;Ribes-Cases;59;Masculino;PAISLEY;Asia;Maldives;B;C004;2380130;1120657
+585;48061666;Nuria;Tomas;59;Masculino;SE59 7HT;Australia y Oceanía;Tonga;B;C000;1363366;505590
+655;40928084;Albina;Castell;59;Masculino;London;Europa;Romania;B;C0014;3205318;645215
+8;42864391;Severo;Alex;59;Femenino;57 Green Drive;África;Tunisia ;C;C001;538786;956436
+123;40232090;Espiridión;Dominguez-Llorente;59;Masculino;78 Hamilton St.;África;South Sudan;C;C003;332594;166246
+740;34826276;Anacleto;Antonio;59;Femenino;386 Richmond Road;Centroamérica y Caribe;Jamaica;C;C0015;1468114;918254
+360;49566364;Alondra;Amigó-Arias;59;Femenino;Miami, FL 33196;África;Senegal;D;C0014;471237;433101
+631;40162181;Hugo;Ferrero;59;Masculino;London;África;Zimbabwe;D;C0019;758465;386216
+884;47565868;Florentina;Arcos;59;Femenino;9783 Poplar Street;África;Sudan;D;C006;911037;564521
+186;30269888;Calixto;Arenas;59;Femenino;San Francisco, CA 94109;Europa;Germany;D;C0018;943944;946272
+503;36680012;María;Fabra;59;Masculino;46 Victoria Street;Europa;Georgia;D;C0017;2764689;627854
+927;40626878;Teresa;Caballero;59;Masculino;92 Peg Shop Rd.;Europa;Russia;D;C0014;1195775;711104
+297;30404377;Anabel;Ámbar;59;Masculino;St. Stephen, NB E3L 2A8;Norteamérica;Greenland;D;C006;2792541;1637185
+198;49460115;Trinidad;Pascual;59;Femenino;Rancho Cucamonga, CA 91730;Asia;Myanmar;E;C000;935172;504892
+772;41610943;Leocadio;Morán;59;Femenino;8759 Tanglewood Dr.;Asia;Nepal;E;C0011;998660;670257
+662;48131147;Petrona;Cerdán;60;Femenino;9459 King Street;África;Sudan;A;C0013;1814042;594769
+593;46551769;Iris;Ros;60;Masculino;90 St. John’s Road;Norteamérica;Canada;A;C000;5246234;39169
+38;42561070;Melisa;Niño;60;Femenino;30 N. Park Avenue;Asia;Singapore;B;C0020;1447055;1061986
+506;43868899;Quique;Laura;60;Femenino;9 Station Road;Asia;Thailand;B;C0018;2631300;746281
+313;36379896;Jesusa;Sancho-Garrido;60;Masculino;Vimont, QC H7M 0J1;Australia y Oceanía;Marshall Islands;B;C0018;851168;989387
+596;34200928;Cándido;Oliveras;60;Femenino;82 West Street;Centroamérica y Caribe;Honduras;B;C007;2687582;308850
+710;44320269;Marta;Zaragoza;60;Femenino;9 Grange Road;Europa;Portugal;B;C005;4518983;1411180
+516;48808941;José;Mas;60;Femenino;SW96 2IA;África;Lesotho;C;C007;1182749;260627
+522;31197521;Cándida;Donaire;60;Femenino;N05 7OW;Europa;Czech Republic;C;C008;1315439;406934
+122;36402868;Celia;Maestre;60;Femenino;7088 South Woodland St.;África;Liberia;D;C0020;253968;237310
+761;46942714;Javier;Miguel;60;Masculino;40 Woodland Dr.;África;Syria;D;C008;1138089;462210
+767;40026047;Martín;Nevado;60;Masculino;3 Holly Ave.;África;Tanzania;D;C004;1022261;901292
+525;34156585;Fanny;Susanita;60;Masculino;E64 5WK;Asia;Nepal;D;C0011;1338194;71644
+810;31878267;Nayara;Fabra;60;Femenino;9045 Poor House Lane;Asia;Thailand;D;C0011;1545024;876739
+408;43403143;Reyna;Barberá;60;Femenino;Hialeah, FL 33010;Centroamérica y Caribe;Cuba;D;C0019;1485372;20529
+288;44708942;Sarita;Ángel;60;Femenino;Strathmore, AB T1P 9V5;África;Republic of the Congo;E;C004;496254;594966
+858;36711603;Silvio;Asenjo;60;Femenino;142 Windfall St.;África;Libya;E;C0016;607038;623389
+675;44205720;Magdalena;Cáceres;60;Masculino;SE21 8PJ;Europa;Luxembourg;E;C003;1846859;819718
+460;45868370;Esmeralda;Nevado;60;Femenino;17 Silver Spear Drive;Norteamérica;Canada;E;C0010;2763926;106541
+636;41114434;Efraín;Rivero;61;Femenino;SE80 7ZT;África;Saudi Arabia;A;C000;1424429;1054752
+830;32347061;Modesto;Anastasia;61;Femenino;901 Belmont Street;África;Mozambique;A;C0010;805830;29313
+389;46585332;Ildefonso;Requena-Barriga;61;Masculino;Hollywood, FL 33024;Asia;Laos;A;C003;3752036;547993
+376;38893571;Erasmo;Torre;61;Femenino;Tampa, FL 33612;Europa;Cyprus;A;C0016;1547019;2075790
+154;49657581;Ernesto;Abascal;61;Femenino;275 Rock Maple Avenue;África;Cape Verde;B;C006;447894;360949
+531;31406439;Pastora;Gargallo;61;Masculino;NW83 2EN;África;Burundi;B;C0018;560700;270041
+312;40136453;Marisela;Torre;61;Femenino;Dunnville, ON N1A 2R5;Asia;Philippines;B;C0013;1620422;404781
+712;47185226;Alcides;Felipe;61;Femenino;London;Asia;Philippines;B;C0014;760073;701544
+70;44915953;Marcos;Tomas;61;Femenino;REDHILL;Europa;Hungary;B;C0019;4909652;743876
+81;32780469;Alberto;Coello;61;Masculino;WV82 8AJ;Europa;Croatia;B;C0017;4836557;853784
+604;42583239;Paz;Bellido;61;Femenino;London;Europa;Albania;B;C0011;3758907;797167
+73;49203253;Quirino;Azorin;61;Masculino;DUDLEY;África;Nigeria;C;C001;886341;105588
+766;37580715;Bárbara;Porras;61;Femenino;735 N. Yukon Street;África;Cape Verde;C;C0011;1464173;406559
+337;35064675;Alejandra;Quintero;61;Masculino;Miami, FL 33183;Europa;Malta;C;C009;1140296;878047
+701;47273109;Hugo;Bastida;61;Masculino;85 Victoria Street;Norteamérica;United States of America;C;C0017;1207805;1416282
+118;32120624;Emilia;Leon;61;Femenino;7172 Halifax St.;África;Central African Republic;D;C0012;768350;504711
+235;44332809;Ana;Azcona;61;Masculino;Outaouais-Sud, QC J0X 9K0;África;Cote d'Ivoire;D;C0010;896696;876451
+69;33802234;Begoña;Pombo;61;Masculino;CA46 0YA;Asia;China;D;C004;718472;957331
+998;39365810;Adriana;Llanos;61;Femenino;20 Marvon Rd.;Asia;Tajikistan;D;C0019;2390471;896513
+242;45054793;Joel;Heredia;61;Femenino;Saint-Hippolyte, QC J8A 8X2;Centroamérica y Caribe;Antigua and Barbuda ;D;C007;1252395;63268
+372;48910697;Beatriz;Márquez;61;Femenino;Palm Harbor, FL 34683;Europa;Latvia;D;C0020;951861;1143484
+55;44796556;Plácido;Aurelia;61;Masculino;WAKEFIELD;África;Rwanda;E;C004;524889;389577
+774;35007698;Damián;Salmerón;61;Femenino;582 Honey Creek Road;África;Zimbabwe;E;C0013;644552;306717
+60;32164222;Javiera;Guillén;61;Femenino;EC18 9MF;Asia;China;E;C0016;1579677;244353
+241;45746667;Adelina;Orozco;62;Masculino;Highlands, BC V9B 9L3;África;Swaziland;A;C003;430646;412328
+270;36703906;Claudio;Arcos;62;Femenino;Port Alberni, BC V9Y 6C7;África;Ethiopia;A;C0015;673155;726026
+601;37174251;Eutimio;Manuel;62;Masculino;London;Centroamérica y Caribe;Dominica;A;C001;1936728;404760
+944;32422404;Leonor;Morán;62;Femenino;906 North Marshall Drive;Centroamérica y Caribe;Saint Kitts and Nevis ;A;C008;1804512;252613
+214;34738792;América;Díaz;62;Femenino;La Habra, CA 90631;Norteamérica;Greenland;A;C0014;6401715;2077144
+314;44481145;Alonso;Lluch;62;Femenino;Port Perry, ON L9L 6K8;África;Burkina Faso;B;C0015;399348;70700
+748;39456747;Elvira;Quintero;62;Femenino;London;África;United Arab Emirates;B;C0018;1673640;306175
+805;41174439;Cándido;Batalla;62;Masculino;749 N. Beechwood Ave.;África;Equatorial Guinea;B;C006;440711;79368
+557;41710649;Emiliana;Tomás;62;Masculino;208 Grove Road;Australia y Oceanía;Tonga;B;C0014;1283432;238392
+745;41335186;Aníbal;Gelabert;62;Masculino;London;Australia y Oceanía;Solomon Islands;B;C005;1266651;832381
+152;30975410;Aníbal;Rosario;62;Femenino;619 Pleasant St.;Australia y Oceanía;Federated States of Micronesia;C;C0012;2205921;998396
+676;39854280;Amancio;Rosselló;62;Femenino;London;Australia y Oceanía;Tonga;C;C008;1460019;925773
+552;42448826;Sigfrido;Andreu;62;Femenino;W56 7HP;Centroamérica y Caribe;El Salvador;C;C0014;1439109;246305
+644;41663187;Eusebio;Antúnez;62;Femenino;520 Albert Road;África;Mauritania;D;C0020;546620;307049
+996;45157424;Nicanor;Martorell;62;Femenino;7606 Alderwood Rd.;África;Malawi;D;C0012;816831;158527
+135;46664069;Régulo;Rosa;62;Masculino;8 White Ave.;Asia;India;D;C003;2158455;934037
+399;39059230;Eliana;Zurita;62;Masculino;Boynton Beach, FL 33436;Australia y Oceanía;Tuvalu;D;C009;1994924;413472
+45;30905925;Cándida;Pascual;62;Masculino;CT76 6OB;Centroamérica y Caribe;Antigua and Barbuda ;D;C005;607628;158441
+4;44354488; David;Diaz;62;Femenino;8143 College St.;África;Iran;E;C007;425687;450315
+124;30401200;Melania;Mur;62;Femenino;7576 S. Prince Ave.;África;Cameroon;E;C0014;462731;318025
+514;39951138;Gabino;Arjona;62;Femenino;London;África;Ghana;E;C0015;450752;542144
+605;42338000;Horacio;Emilia;62;Masculino;65 High Street;Asia;Maldives;E;C009;1408199;438946
+269;41699940;Paloma;Manuela;62;Masculino;Boiestown, NB E6A 0J5;Europa;Sweden;E;C0013;2722758;431353
+395;39118667;Vasco;Peinado-Morales;63;Masculino;Miami, FL 33186;Australia y Oceanía;Papua New Guinea;A;C0012;3994152;234035
+907;30287064;Leonel;Dávila;63;Masculino;34 E. Lafayette Court;Europa;Italy;A;C0010;4293515;963071
+912;41092637;Leopoldo;Emilia;63;Femenino;8627 Bayberry Street;Europa;Bosnia and Herzegovina;A;C003;5388266;30073
+551;38336758;Sandra;Asenjo;63;Masculino;710 Richmond Road;África;Jordan;B;C0010;1498938;625684
+857;41109052;Hernando;Aranda;63;Masculino;9910 Essex St.;África;Pakistan;B;C0017;1328726;871263
+758;36108148;Celestina;Torre;63;Femenino;27 Church Road;África;Ghana;C;C0010;881588;402512
+963;47744550;Brunilda;González;63;Masculino;9307 Riverside Dr.;África;The Gambia;C;C000;606474;675602
+711;40344984;Alma;Porfirio;63;Masculino;WC26 5BI;Asia;South Korea;C;C001;812466;632418
+233;41953335;Marcos;Gallart;63;Masculino;Buena Vista, SK S2V 1L1;Centroamérica y Caribe;Cuba;C;C0018;1037037;297869
+104;44755584;Fortunata;Noguera;63;Femenino;597 New Street;Europa;Lithuania;C;C0017;4365894;926492
+115;33530156;Jonatan;Ignacio;63;Masculino;YORK;Europa;Moldova ;C;C0011;1462494;554684
+276;46817767;Nacio;Villegas;63;Femenino;Prince Rupert, BC V8J 9N3;Europa;Sweden;C;C005;3830094;423547
+363;49166718;Teresita;Salcedo;63;Masculino;Brandon, FL 33511;Europa;Kosovo;C;C001;4293131;1084770
+536;31126832;Natanael;Roldán-Galván;63;Femenino;26 Grove Road;Europa;Albania;C;C001;3863100;337281
+619;32758001;Jordi;Guitart;63;Masculino;London;Europa;Russia;C;C009;3542526;829681
+342;34543964;Bibiana;Montenegro;63;Femenino;Jacksonville, FL 32208;Asia;Japan;D;C007;909185;331926
+800;32585495;Nazaret;Ariadna;63;Femenino;7241 Cemetery Ave.;Asia;Kazakhstan;D;C004;1270737;921399
+109;35713623;Violeta;Molina;63;Masculino;CHELMSFORD;Centroamérica y Caribe;Saint Kitts and Nevis ;D;C0015;920364;658179
+949;31130951;Palmira;Seco;63;Masculino;437 Jockey Hollow Dr.;Centroamérica y Caribe;The Bahamas;D;C006;1309617;348086
+33;48523291;Melania;Felipe;63;Masculino;61 Addison Dr.;Europa;Montenegro;D;C0019;1232882;1389655
+658;36503625;Paloma;Luís-Bernat;63;Femenino;London;Europa;Bosnia and Herzegovina;D;C0017;3098663;865143
+421;31113959;Ruy;Pelayo;63;Masculino;Venice, FL 34293;África;Niger;E;C0020;276309;18803
+663;48511893;Tito;Doménech;63;Masculino;WC09 3CX;África;Democratic Republic of the Congo;E;C0015;873125;13108
+515;35314329;Amanda;Peinado;63;Masculino;468 Springfield Road;Europa;Belarus;E;C005;2763819;1163359
+945;43043087;Hermenegildo;Edu;63;Masculino;566 Old Windsor Street;Europa;Bulgaria;E;C007;1217742;934573
+266;37507835;Bárbara;Crespo;64;Femenino;Black Lake, QC G6H 5M3;Asia;Tajikistan;A;C005;2710590;345949
+985;36791185;Ambrosio;Laura;64;Masculino;75 Victoria St.;Australia y Oceanía;Australia;A;C0016;1192269;1033039
+216;46067266;Trinidad;Cabello-Pol;64;Femenino;Georgetown, ON L7G 9Y7;Europa;Switzerland;B;C0014;3157001;1267999
+477;32795471;Roxana;Aller;64;Masculino;858 Race St.;Europa;Spain;B;C006;1774143;583418
+40;42715620;Lucía;Cuéllar;64;Femenino;59 Atlantic Ave.;África;Lebanon;C;C0020;1352324;259260
+776;39485973;Fernanda;Rodríguez;64;Femenino;720 Paris Hill St.;Europa;Portugal;C;C0020;4332414;729497
+249;49353571;América;Pellicer;64;Masculino;Kanata, ON K2K 4A8;África;Democratic Republic of the Congo;D;C004;853571;685797
+786;49445355;Jaime;Hernando;64;Femenino;268 E. Penn Circle;África;Madagascar;D;C0010;656222;596310
+952;43044588;María;Marín;64;Femenino;9538 South Wall St.;Asia;Tajikistan;D;C0016;949142;828491
+681;33166268;Celia;Pujol;64;Masculino;W95 4IQ;Centroamérica y Caribe;Dominica;D;C0017;1798626;265481
+89;40519117;Abel;Castelló;64;Masculino;10 Kings Road;Europa;Croatia;E;C0015;579282;1147345
+520;46780107;Cristina;Gertrudis;64;Femenino;London;Europa;Kosovo;E;C0016;1853666;1319922
+729;41256128;Ignacio;Ibarra;65;Masculino;WC10 3BR;África;Kenya;A;C0012;757713;811382
+388;45070109;Miguel;Barros;65;Femenino;Lake Worth, FL 33463;Asia;Bhutan;A;C007;3898997;591686
+71;42485379;Venceslás;Cases;65;Masculino;2 Manchester Road;Europa;Norway;A;C0014;3142631;1031436
+157;30744318;Elpidio;Díez-Zorrilla;65;Masculino;9 South Theatre Ave.;África;Algeria;B;C002;1616676;805005
+310;49698720;Felipe;Font;65;Femenino;Chelsea, QC J9B 5K1;África;Yemen;B;C0019;694452;216118
+747;30757782;Juan;Pereira;65;Masculino;N10 2EQ;África;Swaziland;B;C0012;1080534;787966
+972;40731034;Guiomar;Ariadna;65;Femenino;307 Fairview Avenue;África;Chad;B;C0010;1395098;74489
+366;36314612;Ligia;González;65;Femenino;Jacksonville, FL 32209;Australia y Oceanía;Vanuatu;B;C0020;1152066;767203
+311;39310957;Ana;Chus;65;Masculino;Qualicum Beach, BC V9K 4J5;Europa;Russia;B;C0015;2038271;1512485
+703;42064855;Ciríaco;Iniesta;65;Masculino;London;Europa;Cyprus;B;C009;4740659;1338672
+987;47481901;Edelmira;Fonseca;65;Masculino;829 Devonshire Street;Europa;Spain;B;C003;3982785;464851
+773;37832301;Carina;Edu;65;Masculino;9283 High Ridge Drive;África;Kenya;C;C004;584549;684460
+1000;38379042;Luis;Francisco;65;Femenino;7788 S. Princeton Court;África;Rwanda;C;C0013;1228707;365793
+492;38160835;Inmaculada;Mulet;65;Femenino;N47 9MT;Centroamérica y Caribe;Antigua and Barbuda ;C;C0020;1115133;337995
+946;30922089;Lisandro;Salmerón;65;Femenino;363 Carson Lane;Europa;Italy;C;C0013;4664991;1176694
+285;35963533;Montserrat;Solsona;65;Masculino;Parksville, BC V9P 5L2;Asia;Singapore;D;C001;1073123;310312
+412;35677166;Alexandra;Urrutia;65;Femenino;Fort Lauderdale, FL 33317;Centroamérica y Caribe;Barbados;D;C0016;1174233;375165
+353;43827825;Remedios;Cortés;65;Masculino;Port Orange, FL 32127;África;Syria;E;C0020;830619;328127
+539;42983812;Isidro;Carbonell;65;Masculino;34 Manor Road;África;Ethiopia;E;C001;414327;389183
+986;38751361;Ildefonso;Carpio;65;Femenino;7654 Creek St.;África;Nigeria;E;C001;852149;676098
+175;33240110;Blanca;Peralta;65;Masculino;8882 Old Smith Ave.;Asia;China;E;C0010;943779;741653
