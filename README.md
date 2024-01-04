@@ -6,6 +6,7 @@
 - [Arquitectura empleada](#Arquitectura-empleada)
 - [Conexión desde PostgreSQL a Power BI](#Conexión-desde-PostgreSQL-a-Power-BI)
 - [Vista Dashboard en Power BI](#Vista-Dashboard-en-Power-BI)
+- [Instalaciones adicionales](#Instalaciones-adicionales)
 
 ## Resumen del proyecto
 Este proyecto de ETL extrae información desde archivos CSV, ejecuta con Docker-Compose contenedores Docker para: Scheduler y Web Server de Apache Airflow, además de bases de datos en PostgreSQL, con el fin de orquestar y automatizar procesos ETL que inserten información nueva y actualicen registros modificados en base de datos creada, lo cual se ejecuta cada un minuto y se puede monitorear desde el Web Server de Airflow, para finalmente conectarse y visualizar dicha informacion en Power BI.
@@ -24,3 +25,6 @@ A continuación una vista diseñada en Power BI, alojada en directorio 'views', 
 <br/><br/>
 
 ![dashboard](https://github.com/Cris-Neumann/ETL-with-Airflow-and-Docker/assets/99703152/ec4680ba-ab6b-43d6-9ee0-32433ae07d5f)
+
+## Instalaciones adicionales
+Adicional al conector OBDC, se debe instalar Docker y Docker Compose.
