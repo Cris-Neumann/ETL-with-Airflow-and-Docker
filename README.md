@@ -18,7 +18,10 @@ El esquema general del modo en que se relacionan las partes del sistema es el si
 ![etl_airflow_docker](https://github.com/Cris-Neumann/ETL-with-Airflow-and-Docker/assets/99703152/328c1609-6d52-4550-9ff0-75b5ce4c9858)
 
 ## Conexión desde PostgreSQL a Power BI
-Para la conexión desde PostgreSQL a Power BI se utiliza una conexión ODBC, utilizando el string conector a Power BI vía ANSIx64: Driver={PostgreSQL ANSI(x64)};Server=SERVIDOR_SELECCIONADO;Port=PUERTO_SELECCIONADO;Database=BASE_DE_DATOS_SELECCIONADA
+Para la conexión desde PostgreSQL a Power BI se utiliza una conexión ODBC, utilizando el string conector a Power BI vía ANSIx64:
+```
+Driver={PostgreSQL ANSI(x64)};Server=SERVIDOR_SELECCIONADO;Port=PUERTO_SELECCIONADO;Database=BASE_DE_DATOS_SELECCIONADA
+```
 
 ## Vista Dashboard en Power BI
 A continuación una vista diseñada en Power BI, alojada en directorio 'views', con los ingresos, gastos y ahorro de clientes.
