@@ -3,7 +3,7 @@
 ## Índice
 
 - [Resumen del proyecto](#Resumen-del-proyecto)
-- [¿Qué es Docker?](#¿Qué-es-Docker?)
+- [¿Qué es Docker?](#qué-es-docker)
 - [Arquitectura empleada](#Arquitectura-empleada)
 - [Conexión desde PostgreSQL a Power BI](#Conexión-desde-PostgreSQL-a-Power-BI)
 - [Vista Dashboard en Power BI](#Vista-Dashboard-en-Power-BI)
