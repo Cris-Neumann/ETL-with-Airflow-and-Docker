@@ -4,6 +4,7 @@
 
 - [Resumen del proyecto](#Resumen-del-proyecto)
 - [¿Qué es Docker?](#qué-es-docker)
+- [¿Qué es Apache Airflow?](#qué-es-apache-airflow)
 - [Arquitectura empleada](#Arquitectura-empleada)
 - [Conexión desde PostgreSQL a Power BI](#Conexión-desde-PostgreSQL-a-Power-BI)
 - [Vista Dashboard en Power BI](#Vista-Dashboard-en-Power-BI)
@@ -14,6 +15,9 @@ Este proyecto de ETL extrae información desde archivos CSV, ejecuta con Docker-
 
 ## ¿Qué es Docker?
 Docker es una plataforma que facilita la creación, el despliegue y la ejecución de aplicaciones en contenedores. Un contenedor es una unidad de software que empaqueta el código de una aplicación y todas sus dependencias para que la aplicación pueda ejecutarse de manera consistente en cualquier entorno. Documentación oficial: https://docs.docker.com/
+
+## ¿Qué es Apache Airflow?
+Apache Airflow es una herramienta de código abierto para crear, programar y monitorear flujos de trabajo o procesos de datos. Un flujo de trabajo es una serie de tareas que se ejecutan en un orden específico. Documentación oficial: https://airflow.apache.org/docs/
 
 ## Arquitectura empleada
 El esquema general del modo en que se relacionan las partes del sistema es el siguiente:
