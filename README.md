@@ -3,6 +3,7 @@
 ## Índice
 
 - [Resumen del proyecto](#Resumen-del-proyecto)
+- [¿Qué es Docker?](#¿Qué-es-Docker?)
 - [Arquitectura empleada](#Arquitectura-empleada)
 - [Conexión desde PostgreSQL a Power BI](#Conexión-desde-PostgreSQL-a-Power-BI)
 - [Vista Dashboard en Power BI](#Vista-Dashboard-en-Power-BI)
@@ -10,6 +11,9 @@
 
 ## Resumen del proyecto
 Este proyecto de ETL extrae información desde archivos CSV, ejecuta con Docker-Compose contenedores Docker para: Scheduler y Web Server de Apache Airflow, además de bases de datos en PostgreSQL, con el fin de orquestar y automatizar procesos ETL que inserten información nueva y actualicen registros modificados en base de datos creada, lo cual se ejecuta cada un minuto y se puede monitorear desde el Web Server de Airflow, para finalmente conectarse y visualizar dicha informacion en Power BI.
+
+## ¿Qué es Docker?
+Docker es una plataforma que facilita la creación, el despliegue y la ejecución de aplicaciones en contenedores. Un contenedor es una unidad de software que empaqueta el código de una aplicación y todas sus dependencias para que la aplicación pueda ejecutarse de manera consistente en cualquier entorno. Documentación oficial: https://docs.docker.com/
 
 ## Arquitectura empleada
 El esquema general del modo en que se relacionan las partes del sistema es el siguiente:
