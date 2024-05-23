@@ -26,7 +26,8 @@ El esquema general del modo en que se relacionan las partes del sistema es el si
 ![etl_airflow_docker](https://github.com/Cris-Neumann/ETL-with-Airflow-and-Docker/assets/99703152/328c1609-6d52-4550-9ff0-75b5ce4c9858)
 
 ## Conexión desde PostgreSQL a Power BI
-Para la conexión desde PostgreSQL a Power BI se utiliza una conexión ODBC, utilizando el string conector a Power BI vía ANSIx64:
+Para la conexión desde PostgreSQL a Power BI, se utiliza una conexión ODBC (Open Database Connectivity) para PostgreSQL: https://acortar.link/O3tS7e.
+Y se utiliza el siguiente string conector a Power BI vía ANSIx64:
 ```
 Driver={PostgreSQL ANSI(x64)};Server=SERVIDOR_SELECCIONADO;Port=PUERTO_SELECCIONADO;Database=BASE_DE_DATOS_SELECCIONADA
 ```
