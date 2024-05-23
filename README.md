@@ -8,7 +8,7 @@
 - [Arquitectura empleada](#Arquitectura-empleada)
 - [Conexión desde PostgreSQL a Power BI](#Conexión-desde-PostgreSQL-a-Power-BI)
 - [Vista Dashboard en Power BI](#Vista-Dashboard-en-Power-BI)
-- [Instalaciones adicionales](#Instalaciones-adicionales)
+- [Instalaciones adicionales y ejecución](#Instalaciones-adicionales-y-ejecución)
 
 ## Resumen del proyecto
 Este proyecto de ETL extrae información desde archivos CSV, ejecuta con Docker-Compose contenedores Docker para: Scheduler y Web Server de Apache Airflow, además de bases de datos en PostgreSQL, con el fin de orquestar y automatizar procesos ETL que inserten información nueva y actualicen registros modificados en base de datos creada, lo cual se ejecuta cada un minuto y se puede monitorear desde el Web Server de Airflow, para finalmente conectarse y visualizar dicha informacion en Power BI.
@@ -38,6 +38,15 @@ A continuación una vista diseñada en Power BI, alojada en directorio 'views', 
 
 ![dashboard](https://github.com/Cris-Neumann/ETL-with-Airflow-and-Docker/assets/99703152/ec4680ba-ab6b-43d6-9ee0-32433ae07d5f)
 
-## Instalaciones adicionales
-Para crear y correr los contenedores con Docker Compose, debe previamente instalar Docker Engine and Docker CLI: https://docs.docker.com/engine/install/ubuntu/ ,
-y luego de esa instalación, instalar Docker Compose: https://docs.docker.com/compose/install/linux/
+## Instalaciones adicionales y ejecución
+Para ejecutar los contenedores con Docker Compose, debe previamente instalar Docker Engine and Docker CLI:
+https://docs.docker.com/engine/install/ubuntu/, y luego instalar Docker Compose: https://docs.docker.com/compose/install/linux/.
+Una vez instalados, puede probar los servicios ejecutando los siguientes comandos en la terminal:
+```
+sudo service docker start
+sudo docker --version
+```
+Luego de verificar que aparezcan las versiones del cliente y del servidor, puede ejecutar los servicios con el siguiente comando:
+```
+docker-compose up -d
+```
