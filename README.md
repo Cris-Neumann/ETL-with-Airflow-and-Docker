@@ -39,4 +39,5 @@ A continuación una vista diseñada en Power BI, alojada en directorio 'views', 
 ![dashboard](https://github.com/Cris-Neumann/ETL-with-Airflow-and-Docker/assets/99703152/ec4680ba-ab6b-43d6-9ee0-32433ae07d5f)
 
 ## Instalaciones adicionales
-Adicional al conector ODBC, se debe instalar Docker y Docker Compose.
+Para crear y correr los contenedores con Docker Compose, debe previamente instalar Docker Engine and Docker CLI: https://docs.docker.com/engine/install/ubuntu/ ,
+y luego de esa instalación, instalar Docker Compose: https://docs.docker.com/compose/install/linux/
